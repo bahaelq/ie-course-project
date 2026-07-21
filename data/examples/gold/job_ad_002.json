@@ -1,0 +1,35 @@
+{
+  "id": "job_ad_002",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Pflegefachkraft",
+      "start": 16,
+      "end": 31
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "empathischen",
+      "start": 153,
+      "end": 165
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "teamorientierten",
+      "start": 167,
+      "end": 183
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit",
+      "start": 207,
+      "end": 215
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Hybrid",
+      "start": 220,
+      "end": 226
+    }
+  ]
+}

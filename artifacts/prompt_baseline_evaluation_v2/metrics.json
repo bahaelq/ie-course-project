@@ -1,0 +1,78 @@
+{
+  "micro": {
+    "tp": 0,
+    "fp": 0,
+    "fn": 6,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  },
+  "by_type": {
+    "JOB_TITLE": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "HARD_SKILL": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "SOFT_SKILL": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "EXPERIENCE": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "EDUCATION": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "LANGUAGE": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "WORK_MODE": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "per_example": {
+    "job_ad_001": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 6,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  }
+}

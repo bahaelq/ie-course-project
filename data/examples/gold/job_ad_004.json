@@ -1,0 +1,29 @@
+{
+  "id": "job_ad_004",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Vertriebler",
+      "start": 17,
+      "end": 28
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung im B2B-Verkauf",
+      "start": 53,
+      "end": 77
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Englisch B2",
+      "start": 92,
+      "end": 103
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung",
+      "start": 127,
+      "end": 152
+    }
+  ]
+}

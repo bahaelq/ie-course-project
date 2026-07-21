@@ -1,0 +1,29 @@
+{
+  "id": "job_ad_005",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Verwaltungsfachkraft",
+      "start": 16,
+      "end": 36
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Bachelor in Informatik",
+      "start": 106,
+      "end": 128
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Homeoffice",
+      "start": 154,
+      "end": 164
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der Verwaltung von Dokumenten",
+      "start": 166,
+      "end": 208
+    }
+  ]
+}

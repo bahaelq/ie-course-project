@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_001",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Data Scientist",
+      "start": 0,
+      "end": 14
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Python",
+      "start": 103,
+      "end": 109
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "SQL",
+      "start": 111,
+      "end": 114
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Machine Learning",
+      "start": 119,
+      "end": 135
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 162,
+      "end": 170
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "remote",
+      "start": 175,
+      "end": 181
+    }
+  ]
+}

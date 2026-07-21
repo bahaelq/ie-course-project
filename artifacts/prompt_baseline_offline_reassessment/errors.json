@@ -1,0 +1,416 @@
+[
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "wrong_boundary",
+    "type": "JOB_TITLE",
+    "text": "Data Scientist (m/w/d)",
+    "start": 0,
+    "end": 22
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EXPERIENCE",
+    "text": "erfahrene Person",
+    "start": 82,
+    "end": 98
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "wrong_boundary",
+    "type": "WORK_MODE",
+    "text": "remote möglich",
+    "start": 175,
+    "end": 189
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "JOB_TITLE",
+    "text": "Data Scientist",
+    "start": 0,
+    "end": 14
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "remote",
+    "start": 175,
+    "end": 181
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "SOFT_SKILL",
+    "text": "empathischer",
+    "start": null,
+    "end": null
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "wrong_boundary",
+    "type": "SOFT_SKILL",
+    "text": "teamorientiert",
+    "start": 167,
+    "end": 181
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EXPERIENCE",
+    "text": "Betreuung von Patienten",
+    "start": 106,
+    "end": 129
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "empathischen",
+    "start": 153,
+    "end": 165
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "teamorientierten",
+    "start": 167,
+    "end": 183
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "EXPERIENCE",
+    "text": "40 Wochenstunden",
+    "start": 161,
+    "end": 177
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "40 Wochenstunden",
+    "start": 161,
+    "end": 177
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "HARD_SKILL",
+    "text": "B2B-Verkauf",
+    "start": 66,
+    "end": 77
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EXPERIENCE",
+    "text": "Außendienst",
+    "start": 37,
+    "end": 48
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EDUCATION",
+    "text": "kaufmännischen Bereich",
+    "start": 156,
+    "end": 178
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "WORK_MODE",
+    "text": "Außendienst",
+    "start": 37,
+    "end": 48
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung im B2B-Verkauf",
+    "start": 53,
+    "end": 77
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "HARD_SKILL",
+    "text": "Bachelor in Informatik",
+    "start": 106,
+    "end": 128
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "SOFT_SKILL",
+    "text": "Arbeit im Homeoffice",
+    "start": null,
+    "end": null
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "json",
+    "error_type": "wrong_boundary",
+    "type": "EXPERIENCE",
+    "text": "Verwaltung von Dokumenten",
+    "start": 183,
+    "end": 208
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung in der Verwaltung von Dokumenten",
+    "start": 166,
+    "end": 208
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "wrong_boundary",
+    "type": "JOB_TITLE",
+    "text": "Data Scientist (m/w/d)",
+    "start": 0,
+    "end": 22
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "wrong_boundary",
+    "type": "HARD_SKILL",
+    "text": "Python, SQL",
+    "start": 103,
+    "end": 114
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "wrong_boundary",
+    "type": "WORK_MODE",
+    "text": "Vollzeit und remote möglich",
+    "start": 162,
+    "end": 189
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "JOB_TITLE",
+    "text": "Data Scientist",
+    "start": 0,
+    "end": 14
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "Python",
+    "start": 103,
+    "end": 109
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "SQL",
+    "start": 111,
+    "end": 114
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "Vollzeit",
+    "start": 162,
+    "end": 170
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "remote",
+    "start": 175,
+    "end": 181
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "hallucinated_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung",
+    "start": 89,
+    "end": 98
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "wrong_boundary",
+    "type": "SOFT_SKILL",
+    "text": "empathischen, teamorientierten",
+    "start": 153,
+    "end": 183
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "wrong_boundary",
+    "type": "WORK_MODE",
+    "text": "Teilzeit und Hybrid",
+    "start": 207,
+    "end": 226
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "empathischen",
+    "start": 153,
+    "end": 165
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "teamorientierten",
+    "start": 167,
+    "end": 183
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "Teilzeit",
+    "start": 207,
+    "end": 215
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "Hybrid",
+    "start": 220,
+    "end": 226
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "wrong_boundary",
+    "type": "SOFT_SKILL",
+    "text": "Arbeitsweise",
+    "start": 120,
+    "end": 132
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "Java",
+    "start": 53,
+    "end": 57
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "Spring Boot",
+    "start": 62,
+    "end": 73
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "selbstständige Arbeitsweise",
+    "start": 105,
+    "end": 132
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "40 Wochenstunden",
+    "start": 161,
+    "end": 177
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "marker",
+    "error_type": "wrong_boundary",
+    "type": "EDUCATION",
+    "text": "Ausbildung im kaufmännischen Bereich",
+    "start": 142,
+    "end": 178
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung im B2B-Verkauf",
+    "start": 53,
+    "end": 77
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung",
+    "start": 127,
+    "end": 152
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "marker",
+    "error_type": "wrong_type",
+    "type": "HARD_SKILL",
+    "text": "Verwaltung von Dokumenten",
+    "start": 183,
+    "end": 208
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung in der Verwaltung von Dokumenten",
+    "start": 166,
+    "end": 208
+  }
+]

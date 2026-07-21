@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_003",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Softwareentwickler",
+      "start": 17,
+      "end": 35
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Java",
+      "start": 53,
+      "end": 57
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Spring Boot",
+      "start": 62,
+      "end": 73
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Kommunikationsstärke",
+      "start": 80,
+      "end": 100
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "selbstständige Arbeitsweise",
+      "start": 105,
+      "end": 132
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "40 Wochenstunden",
+      "start": 161,
+      "end": 177
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Remote",
+      "start": 182,
+      "end": 188
+    }
+  ]
+}

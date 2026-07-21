@@ -1,0 +1,366 @@
+[
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "JOB_TITLE",
+    "text": "Data Scientist (m/w/d)"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EXPERIENCE",
+    "text": "erfahrene Person"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "WORK_MODE",
+    "text": "remote möglich"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "JOB_TITLE",
+    "text": "Data Scientist"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "remote"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID_OUTPUT",
+    "text": "@@JOB_TITLE{Data Scientist (m/w/d)}## gesucht für ein wachsendes Analytics-Team. Wir suchen eine erfahrene Person mit @@HARD_SKILL{Python, SQL}## und @@HARD_SKILL{Machine Learning}## Erfahrung. Die Stelle ist @@WORK_MODE{Vollzeit und remote möglich}##."
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "JOB_TITLE",
+    "text": "Data Scientist"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "Python"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "SQL"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "Machine Learning"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "Vollzeit"
+  },
+  {
+    "id": "job_ad_001",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "remote"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "SOFT_SKILL",
+    "text": "empathischer"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "SOFT_SKILL",
+    "text": "teamorientiert"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EXPERIENCE",
+    "text": "Betreuung von Patienten"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "empathischen"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "teamorientierten"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID_OUTPUT",
+    "text": "Wir suchen eine @@JOB_TITLE{Pflegefachkraft}## für die stationäre Versorgung im Krankenhaus. Sie bringt @@EXPERIENCE{Erfahrung}## in der Betreuung von Patienten und arbeitet mit einem @@SOFT_SKILL{empathischen, teamorientierten}## Umgang. Die Stelle ist @@WORK_MODE{Teilzeit und Hybrid}##."
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "JOB_TITLE",
+    "text": "Pflegefachkraft"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "empathischen"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "teamorientierten"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "Teilzeit"
+  },
+  {
+    "id": "job_ad_002",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "Hybrid"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "EXPERIENCE",
+    "text": "40 Wochenstunden"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "40 Wochenstunden"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID_OUTPUT",
+    "text": "Wir suchen einen @@JOB_TITLE{Softwareentwickler}## mit Erfahrung in Java und Spring Boot. Gute @@SOFT_SKILL{Kommunikationsstärke}## und selbstständige @@SOFT_SKILL{Arbeitsweise}## sind wichtig. Die Rolle ist 40 Wochenstunden und @@WORK_MODE{Remote}##."
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "JOB_TITLE",
+    "text": "Softwareentwickler"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "Java"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "HARD_SKILL",
+    "text": "Spring Boot"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "Kommunikationsstärke"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "SOFT_SKILL",
+    "text": "selbstständige Arbeitsweise"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "40 Wochenstunden"
+  },
+  {
+    "id": "job_ad_003",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "Remote"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "HARD_SKILL",
+    "text": "B2B-Verkauf"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EXPERIENCE",
+    "text": "Außendienst"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EDUCATION",
+    "text": "kaufmännischen Bereich"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "WORK_MODE",
+    "text": "Außendienst"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung im B2B-Verkauf"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID_OUTPUT",
+    "text": "Wir suchen einen @@JOB_TITLE{Vertriebler}## für den Außendienst mit Erfahrung im B2B-Verkauf. Sie sprechen @@LANGUAGE{Englisch B2}## und verfügen über eine abgeschlossene @@EDUCATION{Ausbildung im kaufmännischen Bereich}##."
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "JOB_TITLE",
+    "text": "Vertriebler"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung im B2B-Verkauf"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "LANGUAGE",
+    "text": "Englisch B2"
+  },
+  {
+    "id": "job_ad_004",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung"
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "HARD_SKILL",
+    "text": "Bachelor in Informatik"
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "SOFT_SKILL",
+    "text": "Arbeit im Homeoffice"
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "json",
+    "error_type": "hallucinated_entity",
+    "type": "EXPERIENCE",
+    "text": "Verwaltung von Dokumenten"
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "json",
+    "error_type": "missed_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung in der Verwaltung von Dokumenten"
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID_OUTPUT",
+    "text": "Wir suchen eine @@JOB_TITLE{Verwaltungsfachkraft}## für die Kundenbetreuung und die Bearbeitung von Anträgen. Sie bringt @@EDUCATION{Bachelor in Informatik}## mit und arbeitet gern im @@WORK_MODE{Homeoffice}##. Erfahrung in der @@HARD_SKILL{Verwaltung von Dokumenten}## ist hilfreich."
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "JOB_TITLE",
+    "text": "Verwaltungsfachkraft"
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "EDUCATION",
+    "text": "Bachelor in Informatik"
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "WORK_MODE",
+    "text": "Homeoffice"
+  },
+  {
+    "id": "job_ad_005",
+    "prompt": "marker",
+    "error_type": "missed_entity",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung in der Verwaltung von Dokumenten"
+  }
+]

@@ -1,0 +1,223 @@
+{
+  "api_calls": 10,
+  "json": {
+    "micro": {
+      "tp": 19,
+      "fp": 12,
+      "fn": 7,
+      "precision": 0.6129032258064516,
+      "recall": 0.7307692307692307,
+      "f1": 0.6666666666666667
+    },
+    "by_type": {
+      "JOB_TITLE": {
+        "tp": 4,
+        "fp": 1,
+        "fn": 1,
+        "precision": 0.8,
+        "recall": 0.8,
+        "f1": 0.8000000000000002
+      },
+      "HARD_SKILL": {
+        "tp": 5,
+        "fp": 2,
+        "fn": 0,
+        "precision": 0.7142857142857143,
+        "recall": 1.0,
+        "f1": 0.8333333333333333
+      },
+      "SOFT_SKILL": {
+        "tp": 2,
+        "fp": 1,
+        "fn": 2,
+        "precision": 0.6666666666666666,
+        "recall": 0.5,
+        "f1": 0.5714285714285715
+      },
+      "EXPERIENCE": {
+        "tp": 0,
+        "fp": 5,
+        "fn": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "EDUCATION": {
+        "tp": 2,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8
+      },
+      "LANGUAGE": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "WORK_MODE": {
+        "tp": 5,
+        "fp": 2,
+        "fn": 2,
+        "precision": 0.7142857142857143,
+        "recall": 0.7142857142857143,
+        "f1": 0.7142857142857143
+      }
+    },
+    "per_example": {
+      "job_ad_001": {
+        "tp": 4,
+        "fp": 3,
+        "fn": 2,
+        "precision": 0.5714285714285714,
+        "recall": 0.6666666666666666,
+        "f1": 0.6153846153846153
+      },
+      "job_ad_002": {
+        "tp": 3,
+        "fp": 2,
+        "fn": 2,
+        "precision": 0.6,
+        "recall": 0.6,
+        "f1": 0.6
+      },
+      "job_ad_003": {
+        "tp": 6,
+        "fp": 1,
+        "fn": 1,
+        "precision": 0.8571428571428571,
+        "recall": 0.8571428571428571,
+        "f1": 0.8571428571428571
+      },
+      "job_ad_004": {
+        "tp": 3,
+        "fp": 4,
+        "fn": 1,
+        "precision": 0.42857142857142855,
+        "recall": 0.75,
+        "f1": 0.5454545454545454
+      },
+      "job_ad_005": {
+        "tp": 3,
+        "fp": 2,
+        "fn": 1,
+        "precision": 0.6,
+        "recall": 0.75,
+        "f1": 0.6666666666666665
+      }
+    }
+  },
+  "marker": {
+    "micro": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 26,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "by_type": {
+      "JOB_TITLE": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "HARD_SKILL": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "SOFT_SKILL": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "EXPERIENCE": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "EDUCATION": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "LANGUAGE": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "WORK_MODE": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 7,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "per_example": {
+      "job_ad_001": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 6,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "job_ad_002": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "job_ad_003": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 7,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "job_ad_004": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "job_ad_005": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "job_id": "job_ad_001",
+  "text_fidelity_valid": true,
+  "metrics": {
+    "tp": 4,
+    "fp": 4,
+    "fn": 2,
+    "precision": 0.5,
+    "recall": 0.6666666666666666,
+    "f1": 0.5714285714285715
+  },
+  "exact_matches": [
+    {
+      "type": "HARD_SKILL",
+      "text": "Python",
+      "start": 103,
+      "end": 109,
+      "status": "ok"
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "SQL",
+      "start": 111,
+      "end": 114,
+      "status": "ok"
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Machine Learning",
+      "start": 119,
+      "end": 135,
+      "status": "ok"
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 162,
+      "end": 170,
+      "status": "ok"
+    }
+  ],
+  "wrong_type": [],
+  "wrong_boundary": [],
+  "missed_entity": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Data Scientist",
+      "start": 0,
+      "end": 14
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "remote",
+      "start": 175,
+      "end": 181
+    }
+  ],
+  "unexpected_entity": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Analytics-Team",
+      "start": 50,
+      "end": 64,
+      "status": "ok"
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "erfahrene Person",
+      "start": 82,
+      "end": 98,
+      "status": "ok"
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung",
+      "start": 136,
+      "end": 145,
+      "status": "ok"
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "remote möglich",
+      "start": 175,
+      "end": 189,
+      "status": "ok"
+    }
+  ],
+  "spans": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Analytics-Team",
+      "start": 50,
+      "end": 64,
+      "status": "ok"
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "erfahrene Person",
+      "start": 82,
+      "end": 98,
+      "status": "ok"
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Python",
+      "start": 103,
+      "end": 109,
+      "status": "ok"
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "SQL",
+      "start": 111,
+      "end": 114,
+      "status": "ok"
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Machine Learning",
+      "start": 119,
+      "end": 135,
+      "status": "ok"
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung",
+      "start": 136,
+      "end": 145,
+      "status": "ok"
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 162,
+      "end": 170,
+      "status": "ok"
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "remote möglich",
+      "start": 175,
+      "end": 189,
+      "status": "ok"
+    }
+  ]
+}
