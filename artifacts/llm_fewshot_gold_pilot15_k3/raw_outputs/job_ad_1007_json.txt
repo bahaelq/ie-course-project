@@ -1,0 +1,22 @@
+{
+  "JOB_TITLE": [
+    "Mitarbeiter/in Casting und Produktion (m/w/d)"
+  ],
+  "HARD_SKILL": [
+    "MS Office"
+  ],
+  "SOFT_SKILL": [
+    "offene, kommunikative und organisationsstarke Persönlichkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrungen im Bereich Casting, vorzugsweise im Kultur- und Theaterbereich"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung oder Studium vorzugsweise im künstlerischen Bereich"
+  ],
+  "LANGUAGE": [],
+  "WORK_MODE": [
+    "Teilzeit (50 %)",
+    "Flexible Arbeitszeiten und Home Office"
+  ]
+}

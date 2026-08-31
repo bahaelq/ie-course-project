@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1070",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Pädagoge (m/w/d) Jugendzentrum.",
+      "start": 0,
+      "end": 31
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Kreativität",
+      "start": 488,
+      "end": 499
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der Jugendarbeit",
+      "start": 361,
+      "end": 390
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenes Studium der Pädagogik oder Soziale Arbeit",
+      "start": 290,
+      "end": 347
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 409,
+      "end": 431
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit 30 Stunden pro Woche, unbefristet",
+      "start": 141,
+      "end": 183
+    }
+  ]
+}

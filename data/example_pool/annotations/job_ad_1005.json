@@ -1,0 +1,77 @@
+{
+  "id": "job_ad_1005",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Sales Manager Außendienst in der Neukundenakquise (m/w/d)",
+      "start": 0,
+      "end": 57
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung im Vertrieb, insbesondere in der Neukundengewinnung",
+      "start": 1849,
+      "end": 1916
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Empathie und Abschlussstärke",
+      "start": 1984,
+      "end": 2012
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Ehrgeiz und Disziplin",
+      "start": 2105,
+      "end": 2126
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Erfolgsorientierung",
+      "start": 2204,
+      "end": 2223
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Eigenverantwortlichkeit",
+      "start": 2336,
+      "end": 2359
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Ausgeprägte Kommunikationsstärke",
+      "start": 2447,
+      "end": 2479
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "verhandlungssichere Deutschkenntnisse in Wort und Schrift",
+      "start": 2486,
+      "end": 2543
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Salesforce",
+      "start": 3000,
+      "end": 3010
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "MS Office",
+      "start": 3023,
+      "end": 3032
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "39 Std./Woche",
+      "start": 3535,
+      "end": 3548
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Teamspirit",
+      "start": 3830,
+      "end": 3840
+    }
+  ]
+}

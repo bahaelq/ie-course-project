@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1079",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Bautechniker (m/w/d) Tiefbau",
+      "start": 0,
+      "end": 28
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Genauigkeit",
+      "start": 430,
+      "end": 441
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung im Tiefbau",
+      "start": 311,
+      "end": 331
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Bautechniker oder Bauingenieur",
+      "start": 237,
+      "end": 297
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 350,
+      "end": 372
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 125,
+      "end": 133
+    }
+  ]
+}

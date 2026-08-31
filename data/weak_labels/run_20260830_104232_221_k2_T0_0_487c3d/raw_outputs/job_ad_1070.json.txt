@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Pädagoge (m/w/d) Jugendzentrum."
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Kreativität"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in der Jugendarbeit"
+  ],
+  "EDUCATION": [
+    "abgeschlossenes Studium der Pädagogik oder Soziale Arbeit"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Teilzeit 30 Stunden pro Woche, unbefristet"
+  ]
+}

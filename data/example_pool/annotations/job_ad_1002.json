@@ -1,0 +1,65 @@
+{
+  "id": "job_ad_1002",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Verkäufer in Teilzeit (m/w/d)",
+      "start": 0,
+      "end": 29
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung im Einzelhandel",
+      "start": 1309,
+      "end": 1350
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in diesem oder einem anderen Bereich",
+      "start": 1363,
+      "end": 1415
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Freundliches Auftreten",
+      "start": 1487,
+      "end": 1509
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Spaß am Umgang mit Kundinnen und Kunden",
+      "start": 1514,
+      "end": 1553
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Lust darauf, aktiv und engagiert mit anzupacken",
+      "start": 1555,
+      "end": 1602
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Flexibilität",
+      "start": 1604,
+      "end": 1616
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Teamgeist",
+      "start": 1621,
+      "end": 1630
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Deutschkenntnisse (mindestens Sprachniveau B1)",
+      "start": 1671,
+      "end": 1717
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 2216,
+      "end": 2224
+    }
+  ]
+}

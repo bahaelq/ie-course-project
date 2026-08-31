@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1026",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Data Scientist (m/w/d).",
+      "start": 0,
+      "end": 23
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 116,
+      "end": 124
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Hybrid möglich",
+      "start": 126,
+      "end": 140
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "SQL",
+      "start": 273,
+      "end": 276
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "TensorFlow",
+      "start": 281,
+      "end": 291
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenes Studium der Informatik, Mathematik, Data Science oder eine vergleichbare Qualifikation",
+      "start": 349,
+      "end": 451
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "mehrjährige Erfahrung im Bereich Machine Learning und Datenanalyse mit Python",
+      "start": 465,
+      "end": 542
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Englischkenntnisse",
+      "start": 555,
+      "end": 583
+    }
+  ]
+}

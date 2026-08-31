@@ -1,0 +1,24 @@
+{
+  "JOB_TITLE": [
+    "Medizinische Fachangestellte (m/w/d) Hausarztpraxis"
+  ],
+  "HARD_SKILL": [
+    "Abrechnung nach EBM"
+  ],
+  "SOFT_SKILL": [
+    "Freundliches Auftreten",
+    "Organisationsstärke"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in einer Hausarztpraxis"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Medizinische Fachangestellte"
+  ],
+  "LANGUAGE": [
+    "sehr gute Deutschkenntnisse in Wort und Schrift"
+  ],
+  "WORK_MODE": [
+    "Teilzeit 30 Stunden pro Woche, unbefristet"
+  ]
+}

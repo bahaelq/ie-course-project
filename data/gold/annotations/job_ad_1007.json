@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1007",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Mitarbeiter/in Casting und Produktion (m/w/d)",
+      "start": 0,
+      "end": 45
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit (50 %)",
+      "start": 49,
+      "end": 64
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrungen im Bereich Casting, vorzugsweise im Kultur- und Theaterbereich",
+      "start": 1693,
+      "end": 1767
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "sicheres Urteilsvermögen bei der Auswahl und Bewertung künstlerischer Talente",
+      "start": 1815,
+      "end": 1892
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Abgeschlossene Ausbildung oder Studium",
+      "start": 1980,
+      "end": 2018
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "offene, kommunikative und organisationsstarke Persönlichkeit",
+      "start": 2149,
+      "end": 2209
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "MS Office",
+      "start": 2230,
+      "end": 2239
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Home Office",
+      "start": 2514,
+      "end": 2525
+    }
+  ]
+}

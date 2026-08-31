@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Berufskraftfahrer (m/w/d) Fernverkehr"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Pünktlichkeit",
+    "Zuverlässigkeit"
+  ],
+  "EXPERIENCE": [
+    "Fahrpraxis im Fernverkehr"
+  ],
+  "EDUCATION": [
+    "Führerschein Klasse CE",
+    "Berufskraftfahrerqualifikation"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

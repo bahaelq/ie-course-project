@@ -1,0 +1,35 @@
+{
+  "id": "job_ad_1012",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Erzieher (m/w/d) / verschiedene Standorte.",
+      "start": 0,
+      "end": 42
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Ausbildung als staatlich anerkannte:r Erzieher:in oder eine vergleichbare Qualifikation, zum Beispiel ein Studium mit Haupt- oder Nebenfach Pädagogik",
+      "start": 768,
+      "end": 917
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse in Wort und Schrift",
+      "start": 963,
+      "end": 1005
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "selbstständige und strukturierte Arbeitsweise",
+      "start": 1116,
+      "end": 1161
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Teamfähigkeit und interkulturelle Kompetenz",
+      "start": 1320,
+      "end": 1363
+    }
+  ]
+}

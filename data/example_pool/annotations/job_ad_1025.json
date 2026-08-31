@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1025",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Sozialpädagoge (m/w/d) Jugendhilfe",
+      "start": 0,
+      "end": 34
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit 30 Stunden pro Woche",
+      "start": 131,
+      "end": 160
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenes Studium der Sozialen Arbeit, Sozialpädagogik oder eine vergleichbare Qualifikation",
+      "start": 358,
+      "end": 456
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der Jugendhilfe",
+      "start": 470,
+      "end": 498
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse in Wort und Schrift",
+      "start": 560,
+      "end": 607
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Kommunikationsstärke",
+      "start": 632,
+      "end": 652
+    }
+  ]
+}

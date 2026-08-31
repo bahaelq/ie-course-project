@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Kundenberater (m/w/d) Telekommunikation"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Kommunikationsstärke"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in der Kundenberatung"
+  ],
+  "EDUCATION": [
+    "abgeschlossene kaufmännische Ausbildung"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit, unbefristet"
+  ]
+}

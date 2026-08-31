@@ -1,0 +1,75 @@
+{"id": "job_ad_1031", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Gesundheits- und Krankenpfleger (m/w/d) Intensivstation -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:48:51.408339+00:00"}
+{"id": "job_ad_1032", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Medizinische Fachangestellte (m/w/d) Hausarztpraxis -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:48:52.731083+00:00"}
+{"id": "job_ad_1032", "stage": "validation", "error_type": "validation_failed", "message": "WORK_MODE must not be contract type 'Teilzeit 30 Stunden pro Woche, unbefristet' at 6", "attempt": 1, "timestamp": "2026-08-31T09:48:52.733785+00:00"}
+{"id": "job_ad_1033", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Ergotherapeut (m/w/d) Neurologie -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:48:53.761891+00:00"}
+{"id": "job_ad_1034", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Altenpfleger (m/w/d) Seniorenheim -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:48:54.889733+00:00"}
+{"id": "job_ad_1035", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Hebamme (m/w/d) Kreißsaal -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:48:56.117552+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Softwareentwickler Python (m/w/d) Backend -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:48:57.207600+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Python", "attempt": 1, "timestamp": "2026-08-31T09:48:57.208303+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:FastAPI", "attempt": 1, "timestamp": "2026-08-31T09:48:57.208668+00:00"}
+{"id": "job_ad_1037", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:DevOps Engineer (m/w/d) Cloud -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:48:58.372361+00:00"}
+{"id": "job_ad_1037", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Kubernetes", "attempt": 1, "timestamp": "2026-08-31T09:48:58.373062+00:00"}
+{"id": "job_ad_1037", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Terraform", "attempt": 1, "timestamp": "2026-08-31T09:48:58.373374+00:00"}
+{"id": "job_ad_1037", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:AWS", "attempt": 1, "timestamp": "2026-08-31T09:48:58.373663+00:00"}
+{"id": "job_ad_1038", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:IT-Administrator (m/w/d) Systembetreuung -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:48:59.499421+00:00"}
+{"id": "job_ad_1038", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Active Directory", "attempt": 1, "timestamp": "2026-08-31T09:48:59.500458+00:00"}
+{"id": "job_ad_1038", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Linux", "attempt": 1, "timestamp": "2026-08-31T09:48:59.500857+00:00"}
+{"id": "job_ad_1039", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:SAP FI/CO", "attempt": 1, "timestamp": "2026-08-31T09:49:00.820289+00:00"}
+{"id": "job_ad_1040", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:IT Support Specialist (m/w/d) 1st Level -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:02.056907+00:00"}
+{"id": "job_ad_1041", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Elektriker (m/w/d) Gebäudetechnik -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:02.985048+00:00"}
+{"id": "job_ad_1042", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Tischler (m/w/d) Möbelbau -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:04.105926+00:00"}
+{"id": "job_ad_1043", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Maler und Lackierer (m/w/d) -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:05.027416+00:00"}
+{"id": "job_ad_1044", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Dachdecker (m/w/d) -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:06.159032+00:00"}
+{"id": "job_ad_1045", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Fliesenleger (m/w/d) -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:07.103439+00:00"}
+{"id": "job_ad_1046", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Industriemechaniker (m/w/d) Produktion -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:08.148979+00:00"}
+{"id": "job_ad_1047", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Produktionsmitarbeiter (m/w/d) Chemie -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:09.199384+00:00"}
+{"id": "job_ad_1048", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Qualitätsprüfer (m/w/d) Metall -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:10.323212+00:00"}
+{"id": "job_ad_1049", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Schweißer (m/w/d) -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:11.299884+00:00"}
+{"id": "job_ad_1049", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:MAG-Schweißen", "attempt": 1, "timestamp": "2026-08-31T09:49:11.300716+00:00"}
+{"id": "job_ad_1050", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Verfahrensmechaniker (m/w/d) Kunststoff -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:12.427768+00:00"}
+{"id": "job_ad_1050", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Spritzguss", "attempt": 1, "timestamp": "2026-08-31T09:49:12.428485+00:00"}
+{"id": "job_ad_1051", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Kommissionierer (m/w/d) Lager -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:13.636164+00:00"}
+{"id": "job_ad_1052", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Lagerist (m/w/d) Hochregal -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:14.548196+00:00"}
+{"id": "job_ad_1052", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Hochregalstapler", "attempt": 1, "timestamp": "2026-08-31T09:49:14.548887+00:00"}
+{"id": "job_ad_1053", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Disponent (m/w/d) Spedition -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:15.596182+00:00"}
+{"id": "job_ad_1054", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Staplerfahrer (m/w/d) Logistikzentrum -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:16.586238+00:00"}
+{"id": "job_ad_1054", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Gabelstapler", "attempt": 1, "timestamp": "2026-08-31T09:49:16.586983+00:00"}
+{"id": "job_ad_1055", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Berufskraftfahrer (m/w/d) Fernverkehr -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:17.611020+00:00"}
+{"id": "job_ad_1056", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Sachbearbeiter Einkauf (m/w/d) -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:18.660224+00:00"}
+{"id": "job_ad_1057", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Buchhalter (m/w/d) Finanzbuchhaltung -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:19.889784+00:00"}
+{"id": "job_ad_1058", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Verwaltungsfachangestellter (m/w/d) -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:21.321806+00:00"}
+{"id": "job_ad_1058", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Verwaltungsfachangestellter (m/w/d) -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:21.322618+00:00"}
+{"id": "job_ad_1058", "stage": "validation", "error_type": "validation_failed", "message": "Duplicate span ('JOB_TITLE', 'Verwaltungsfachangestellter (m/w/d)', 0, 35) at 1", "attempt": 1, "timestamp": "2026-08-31T09:49:21.324176+00:00"}
+{"id": "job_ad_1058", "stage": "validation", "error_type": "validation_failed", "message": "Overlap 'Verwaltungsfachangestellter (m/w/d)' and 'Verwaltungsfachangestellter (m/w/d)'", "attempt": 1, "timestamp": "2026-08-31T09:49:21.324482+00:00"}
+{"id": "job_ad_1059", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Office Manager (m/w/d) Assistenz -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:22.449857+00:00"}
+{"id": "job_ad_1060", "stage": "validation", "error_type": "validation_failed", "message": "WORK_MODE must not be contract type 'Teilzeit 25 Stunden pro Woche, unbefristet' at 6", "attempt": 1, "timestamp": "2026-08-31T09:49:23.894950+00:00"}
+{"id": "job_ad_1061", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Verkäufer (m/w/d) Mode -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:25.039539+00:00"}
+{"id": "job_ad_1061", "stage": "validation", "error_type": "validation_failed", "message": "WORK_MODE must not be contract type 'Teilzeit 20 Stunden pro Woche, unbefristet' at 8", "attempt": 1, "timestamp": "2026-08-31T09:49:25.041691+00:00"}
+{"id": "job_ad_1062", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Einzelhandelskaufmann (m/w/d) -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:26.034097+00:00"}
+{"id": "job_ad_1063", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Kundenberater (m/w/d) Telekommunikation -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:27.059913+00:00"}
+{"id": "job_ad_1063", "stage": "validation", "error_type": "validation_failed", "message": "WORK_MODE must not be contract type 'Vollzeit, unbefristet' at 5", "attempt": 1, "timestamp": "2026-08-31T09:49:27.061554+00:00"}
+{"id": "job_ad_1064", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Vertriebsmitarbeiter (m/w/d) Außendienst -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:28.138919+00:00"}
+{"id": "job_ad_1065", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:stellv. Filialleiter (m/w/d) Lebensmittel -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:29.137138+00:00"}
+{"id": "job_ad_1066", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Erzieher (m/w/d) Kindergarten -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:30.236648+00:00"}
+{"id": "job_ad_1066", "stage": "validation", "error_type": "validation_failed", "message": "WORK_MODE must not be contract type 'Teilzeit 30 Stunden pro Woche, unbefristet' at 6", "attempt": 1, "timestamp": "2026-08-31T09:49:30.238369+00:00"}
+{"id": "job_ad_1067", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Lehrer (m/w/d) Grundschule -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:31.232182+00:00"}
+{"id": "job_ad_1068", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Heilerziehungspfleger (m/w/d) Wohngruppe -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:35.459588+00:00"}
+{"id": "job_ad_1069", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Sozialarbeiter (m/w/d) Familienhilfe -> first header 0", "attempt": 1, "timestamp": "2026-08-31T09:49:36.483294+00:00"}
+{"id": "job_ad_1070", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 1, "timestamp": "2026-08-31T09:49:36.485535+00:00"}
+{"id": "job_ad_1070", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 2, "timestamp": "2026-08-31T09:49:37.580417+00:00"}
+{"id": "job_ad_1070", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 3, "timestamp": "2026-08-31T09:49:39.829988+00:00"}
+{"id": "job_ad_1071", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 1, "timestamp": "2026-08-31T09:49:39.926907+00:00"}
+{"id": "job_ad_1071", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 2, "timestamp": "2026-08-31T09:49:41.169125+00:00"}
+{"id": "job_ad_1071", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 3, "timestamp": "2026-08-31T09:49:43.489260+00:00"}
+{"id": "job_ad_1072", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 1, "timestamp": "2026-08-31T09:49:43.580480+00:00"}
+{"id": "job_ad_1072", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 2, "timestamp": "2026-08-31T09:49:44.816498+00:00"}
+{"id": "job_ad_1072", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 3, "timestamp": "2026-08-31T09:49:47.399514+00:00"}
+{"id": "job_ad_1073", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 1, "timestamp": "2026-08-31T09:49:47.568852+00:00"}
+{"id": "job_ad_1073", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 2, "timestamp": "2026-08-31T09:49:49.018978+00:00"}
+{"id": "job_ad_1073", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 3, "timestamp": "2026-08-31T09:49:51.452050+00:00"}
+{"id": "job_ad_1074", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 1, "timestamp": "2026-08-31T09:49:51.537532+00:00"}
+{"id": "job_ad_1074", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 2, "timestamp": "2026-08-31T09:49:52.976135+00:00"}
+{"id": "job_ad_1074", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 3, "timestamp": "2026-08-31T09:49:55.496168+00:00"}
+{"id": "job_ad_1075", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 1, "timestamp": "2026-08-31T09:49:55.594134+00:00"}
+{"id": "job_ad_1075", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 2, "timestamp": "2026-08-31T09:49:56.757121+00:00"}
+{"id": "job_ad_1075", "stage": "api", "error_type": "http_429", "message": "None", "attempt": 3, "timestamp": "2026-08-31T09:49:59.216337+00:00"}

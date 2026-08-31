@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1077",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Polier (m/w/d) Hochbau",
+      "start": 0,
+      "end": 22
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Führungskompetenz",
+      "start": 440,
+      "end": 457
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "mehrjährige Erfahrung als Polier",
+      "start": 313,
+      "end": 345
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Maurer mit Weiterbildung zum Polier",
+      "start": 234,
+      "end": 299
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 364,
+      "end": 386
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 127,
+      "end": 135
+    }
+  ]
+}

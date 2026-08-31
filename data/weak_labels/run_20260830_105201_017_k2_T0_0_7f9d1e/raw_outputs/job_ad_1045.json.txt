@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Fliesenleger (m/w/d)"
+  ],
+  "HARD_SKILL": [
+    "Fliesenverlegung"
+  ],
+  "SOFT_SKILL": [
+    "Präzision"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Fliesenlegen"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Fliesenleger:in"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

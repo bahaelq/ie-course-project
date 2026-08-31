@@ -1,0 +1,22 @@
+{
+  "JOB_TITLE": [
+    "Elektroniker für Betriebstechnik (m/w/d)",
+    "Elektroniker für Betriebstechnik (m/w/d)"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [],
+  "EXPERIENCE": [
+    "Berufserfahrung in der Wartung von elektrischen Anlagen"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Elektroniker für Betriebstechnik oder eine vergleichbare Qualifikation"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit",
+    "unbefristet",
+    "Homeoffice möglich"
+  ]
+}

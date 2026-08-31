@@ -1,0 +1,28 @@
+{
+  "JOB_TITLE": [
+    "SAP Berater (m/w/d) FI/CO"
+  ],
+  "HARD_SKILL": [
+    "SAP FI/CO",
+    "S/4HANA"
+  ],
+  "SOFT_SKILL": [
+    "Beratungskompetenz",
+    "Kommunikationsstärke"
+  ],
+  "EXPERIENCE": [
+    "mehrjährige Erfahrung in der SAP-Beratung"
+  ],
+  "EDUCATION": [
+    "abgeschlossenes Studium der Wirtschaftsinformatik oder vergleichbare Qualifikation"
+  ],
+  "LANGUAGE": [
+    "verhandlungssichere Deutschkenntnisse",
+    "gute Englischkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit",
+    "Hybrid möglich",
+    "unbefristet"
+  ]
+}

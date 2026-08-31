@@ -1,0 +1,26 @@
+{
+  "JOB_TITLE": [
+    "Softwareentwickler Python (m/w/d) Backend"
+  ],
+  "HARD_SKILL": [
+    "Python",
+    "FastAPI"
+  ],
+  "SOFT_SKILL": [
+    "analytische Denkweise",
+    "Teamfähigkeit"
+  ],
+  "EXPERIENCE": [
+    "mehrjährige Berufserfahrung in der Softwareentwicklung mit Python"
+  ],
+  "EDUCATION": [
+    "abgeschlossenes Studium der Informatik oder vergleichbare Ausbildung"
+  ],
+  "LANGUAGE": [
+    "gute Englischkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit",
+    "Hybrid möglich"
+  ]
+}

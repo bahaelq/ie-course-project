@@ -1,0 +1,22 @@
+{
+  "JOB_TITLE": [
+    "Industriemechaniker (m/w/d) Produktion"
+  ],
+  "HARD_SKILL": [
+    "Pneumatik",
+    "Hydraulik"
+  ],
+  "SOFT_SKILL": [],
+  "EXPERIENCE": [
+    "Berufserfahrung in der Produktion"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Industriemechaniker:in"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

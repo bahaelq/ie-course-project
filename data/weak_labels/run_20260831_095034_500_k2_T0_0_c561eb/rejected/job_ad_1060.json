@@ -1,0 +1,50 @@
+{
+  "id": "job_ad_1060",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Lohnbuchhalter (m/w/d).",
+      "start": 0,
+      "end": 23
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "DATEV Lohn und Gehalt",
+      "start": 496,
+      "end": 517
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Genauigkeit und Zuverlässigkeit",
+      "start": 534,
+      "end": 565
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der Lohnbuchhaltung",
+      "start": 371,
+      "end": 403
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Steuerfachangestellter mit Weiterbildung zum Lohnbuchhalter",
+      "start": 268,
+      "end": 357
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse in Wort und Schrift",
+      "start": 422,
+      "end": 469
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit 25 Stunden pro Woche, unbefristet",
+      "start": 129,
+      "end": 171
+    }
+  ],
+  "errors": [
+    "WORK_MODE must not be contract type 'Teilzeit 25 Stunden pro Woche, unbefristet' at 6"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1006",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Werkstudent / Werkstudentin Produktion (m/w/d)",
+      "start": 0,
+      "end": 46
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Hybrid möglich",
+      "start": 109,
+      "end": 123
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Laufendes Studium (Ingenieurwesen, Wirtschaftsingenieurwesen mit Schwerpunkt Maschinenbau, Produktion o.ä.)",
+      "start": 1577,
+      "end": 1684
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "MS-Office",
+      "start": 1763,
+      "end": 1772
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "strukturierte, selbstständige Arbeitsweise",
+      "start": 1774,
+      "end": 1816
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "hohe Kommunikations- und Teamfähigkeit",
+      "start": 1818,
+      "end": 1856
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Python",
+      "start": 1976,
+      "end": 1982
+    }
+  ]
+}

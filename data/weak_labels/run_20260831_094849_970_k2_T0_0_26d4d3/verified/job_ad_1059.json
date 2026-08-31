@@ -1,0 +1,59 @@
+{
+  "id": "job_ad_1059",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Office Manager (m/w/d) Assistenz",
+      "start": 0,
+      "end": 32
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "MS Office",
+      "start": 441,
+      "end": 450
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Organisationsstärke",
+      "start": 467,
+      "end": 486
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Kommunikationsstärke",
+      "start": 491,
+      "end": 511
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung im Office Management",
+      "start": 320,
+      "end": 350
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene kaufmännische Ausbildung oder Studium",
+      "start": 254,
+      "end": 306
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 369,
+      "end": 391
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Englischkenntnisse",
+      "start": 396,
+      "end": 414
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 135,
+      "end": 143
+    }
+  ]
+}

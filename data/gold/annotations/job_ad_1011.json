@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1011",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Pflegefachkraft (w/m/d) ZNA",
+      "start": 0,
+      "end": 27
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Voll- oder Teilzeit",
+      "start": 120,
+      "end": 139
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Teamplayer:in",
+      "start": 623,
+      "end": 636
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenen Ausbildung als Pflegefachkraft, Gesundheits- und Krankenpfleger:in, Altenpfleger:in oder Notfallsanitäter:in",
+      "start": 647,
+      "end": 771
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Betreuung von Notfallpatient:innen",
+      "start": 913,
+      "end": 970
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "ausgeprägte kommunikative Kompetenz mit Überzeugungskraft, Kreativität und Empathie",
+      "start": 988,
+      "end": 1071
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1021",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Physiotherapeut (m/w/d) für Rehazentrum Hamburg",
+      "start": 0,
+      "end": 47
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Voll- oder Teilzeit",
+      "start": 146,
+      "end": 165
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Krankengymnastik",
+      "start": 297,
+      "end": 313
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Physiotherapeut:in oder ein Studium der Physiotherapie",
+      "start": 478,
+      "end": 562
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Behandlung von Patient:innen mit muskuloskelettalen Beschwerden",
+      "start": 576,
+      "end": 662
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse in Wort und Schrift",
+      "start": 681,
+      "end": 723
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "teamfähig",
+      "start": 745,
+      "end": 754
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "selbstständige Arbeitsweise",
+      "start": 772,
+      "end": 799
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "JOB_TITLE": [
+    "Pflegefachkraft (w/m/d)"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Fachlich kompetent",
+    "Sozial kompetent",
+    "Technisch kompetent",
+    "Ausgeprägte kommunikative Kompetenz",
+    "Überzeugungskraft",
+    "Kreativität",
+    "Empathie"
+  ],
+  "EXPERIENCE": [
+    "Berufserfahrung in der Betreuung von Notfallpatient:innen"
+  ],
+  "EDUCATION": [
+    "Abgeschlossene Ausbildung als Pflegefachkraft, Gesundheits- und Krankenpfleger:in, Altenpfleger:in oder Notfallsanitäter:in"
+  ],
+  "LANGUAGE": [],
+  "WORK_MODE": [
+    "Voll- oder Teilzeit"
+  ]
+}

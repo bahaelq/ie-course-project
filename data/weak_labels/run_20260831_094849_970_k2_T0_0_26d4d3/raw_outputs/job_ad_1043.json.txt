@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Maler und Lackierer (m/w/d)"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Genauigkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Malerhandwerk von Vorteil"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Maler und Lackierer"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

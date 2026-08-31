@@ -1,0 +1,10 @@
+{"id": "job_ad_1031", "stage": "parse", "error_type": "ambiguous", "message": "JOB_TITLE:Gesundheits- und Krankenpfleger (m/w/d) Intensivstation", "attempt": 1, "timestamp": "2026-08-26T17:03:01.387679+00:00"}
+{"id": "job_ad_1032", "stage": "parse", "error_type": "ambiguous", "message": "JOB_TITLE:Medizinische Fachangestellte (m/w/d) Hausarztpraxis", "attempt": 1, "timestamp": "2026-08-26T17:03:02.494270+00:00"}
+{"id": "job_ad_1036", "stage": "api", "error_type": "http_500", "message": "", "attempt": 1, "timestamp": "2026-08-26T17:03:02.495310+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "ambiguous", "message": "JOB_TITLE:Softwareentwickler Python (m/w/d) Backend", "attempt": 2, "timestamp": "2026-08-26T17:03:05.768417+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Python", "attempt": 2, "timestamp": "2026-08-26T17:03:05.768603+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:FastAPI", "attempt": 2, "timestamp": "2026-08-26T17:03:05.768769+00:00"}
+{"id": "job_ad_1051", "stage": "api", "error_type": "http_500", "message": "", "attempt": 1, "timestamp": "2026-08-26T17:03:05.769460+00:00"}
+{"id": "job_ad_1051", "stage": "parse", "error_type": "ambiguous", "message": "JOB_TITLE:Kommissionierer (m/w/d) Lager", "attempt": 2, "timestamp": "2026-08-26T17:03:08.112332+00:00"}
+{"id": "job_ad_1066", "stage": "api", "error_type": "http_500", "message": "", "attempt": 1, "timestamp": "2026-08-26T17:03:08.113194+00:00"}
+{"id": "job_ad_1066", "stage": "parse", "error_type": "ambiguous", "message": "JOB_TITLE:Erzieher (m/w/d) Kindergarten", "attempt": 2, "timestamp": "2026-08-26T17:03:10.269652+00:00"}

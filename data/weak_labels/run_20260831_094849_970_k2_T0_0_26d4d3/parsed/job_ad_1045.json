@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1045",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Fliesenleger (m/w/d)",
+      "start": 0,
+      "end": 20
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Präzision",
+      "start": 438,
+      "end": 447
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung im Fliesenlegen",
+      "start": 312,
+      "end": 337
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Fliesenleger:in",
+      "start": 253,
+      "end": 298
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 356,
+      "end": 378
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 133,
+      "end": 141
+    }
+  ]
+}

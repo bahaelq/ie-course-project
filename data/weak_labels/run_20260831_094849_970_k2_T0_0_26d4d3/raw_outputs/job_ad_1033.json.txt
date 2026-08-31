@@ -1,0 +1,24 @@
+{
+  "JOB_TITLE": [
+    "Ergotherapeut (m/w/d) Neurologie"
+  ],
+  "HARD_SKILL": [
+    "Bobath-Konzept"
+  ],
+  "SOFT_SKILL": [
+    "Empathie",
+    "Kreativität"
+  ],
+  "EXPERIENCE": [
+    "Berufserfahrung in der Neurologie"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Ergotherapeut:in"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Voll- oder Teilzeit"
+  ]
+}

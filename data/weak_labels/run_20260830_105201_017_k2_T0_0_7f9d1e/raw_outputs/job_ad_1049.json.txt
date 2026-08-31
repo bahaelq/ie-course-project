@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Schweißer (m/w/d)"
+  ],
+  "HARD_SKILL": [
+    "MAG"
+  ],
+  "SOFT_SKILL": [
+    "Präzision"
+  ],
+  "EXPERIENCE": [
+    "mehrjährige Erfahrung im MAG-Schweißen"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Schweißer oder Metallbauer"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Verkäufer (m/w/d)",
+    "Verkäufer (m/w/d)"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "teamfähig",
+    "Freude am Kundenkontakt"
+  ],
+  "EXPERIENCE": [
+    "erste Berufserfahrung im Einzelhandel"
+  ],
+  "EDUCATION": [
+    "abgeschlossene kaufmännische Berufsausbildung im Einzelhandel"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

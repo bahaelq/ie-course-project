@@ -1,0 +1,20 @@
+{
+  "JOB_TITLE": [
+    "Mitarbeiter Produktion (m/w/d)"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Kooperativ",
+    "Konstruktiv",
+    "Humor"
+  ],
+  "EXPERIENCE": [
+    "Erfahrungen aus der Produktion"
+  ],
+  "EDUCATION": [],
+  "LANGUAGE": [],
+  "WORK_MODE": [
+    "Vollzeit",
+    "Teilzeit"
+  ]
+}

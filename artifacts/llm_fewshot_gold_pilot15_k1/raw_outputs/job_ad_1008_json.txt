@@ -1,0 +1,29 @@
+{
+  "JOB_TITLE": [
+    "Sales Manager (w/m/d)"
+  ],
+  "HARD_SKILL": [
+    "HubSpot"
+  ],
+  "SOFT_SKILL": [
+    "Ausgeprägte Kommunikations- und Präsentationsstärke",
+    "Hohe Eigeninitiative",
+    "Zielorientierung",
+    "Unternehmerisches Denken",
+    "Teamfähigkeit",
+    "Kooperationsbereitschaft",
+    "Reisebereitschaft"
+  ],
+  "EXPERIENCE": [
+    "Nachweisbare Vertriebserfahrung im B2B-Umfeld (Software, IT, SaaS, Consulting)"
+  ],
+  "EDUCATION": [
+    "Abgeschlossenes Studium im Bereich Wirtschaftswissenschaften, Recht, Informatik, Wirtschaftsingenieurwesen oder vergleichbare Qualifikation aus dem Ausbildungsbereich"
+  ],
+  "LANGUAGE": [
+    "Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift"
+  ],
+  "WORK_MODE": [
+    "Hybrides Arbeiten: Büro in Eschborn + Möglichkeit zum mobilen Arbeiten"
+  ]
+}

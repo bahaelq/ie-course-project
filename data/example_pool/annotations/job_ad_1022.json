@@ -1,0 +1,35 @@
+{
+  "id": "job_ad_1022",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Anlagenmechaniker SHK (m/w/d)",
+      "start": 0,
+      "end": 29
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 177,
+      "end": 185
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik oder eine vergleichbare Qualifikation",
+      "start": 422,
+      "end": 548
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Installation von Sanitär- und Heizungsanlagen",
+      "start": 562,
+      "end": 630
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 689,
+      "end": 711
+    }
+  ]
+}

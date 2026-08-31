@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1023",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Koch (m/w/d) für Hotelrestaurant Hamburg",
+      "start": 0,
+      "end": 40
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 106,
+      "end": 114
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "HACCP-Standards",
+      "start": 316,
+      "end": 331
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Koch oder Köchin",
+      "start": 419,
+      "end": 465
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der gehobenen Gastronomie",
+      "start": 479,
+      "end": 517
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 552,
+      "end": 574
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "teamfähig",
+      "start": 584,
+      "end": 593
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Qualitätsprüfer (m/w/d) Metall"
+  ],
+  "HARD_SKILL": [
+    "Messtechnik"
+  ],
+  "SOFT_SKILL": [
+    "Genauigkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in der Qualitätsprüfung"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Zerspanungsmechaniker"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

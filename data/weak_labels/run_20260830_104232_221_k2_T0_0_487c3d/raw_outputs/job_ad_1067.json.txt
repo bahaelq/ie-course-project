@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Lehrer (m/w/d) Grundschule"
+  ],
+  "HARD_SKILL": [
+    "Didaktik"
+  ],
+  "SOFT_SKILL": [
+    "Geduld"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Unterrichten von Grundschulkindern"
+  ],
+  "EDUCATION": [
+    "abgeschlossenes Studium Lehramt Grundschule oder vergleichbare Qualifikation"
+  ],
+  "LANGUAGE": [
+    "sehr gute Deutschkenntnisse in Wort und Schrift"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

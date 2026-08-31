@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1017",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Pflegefachkraft (m/w/d) Intensivpflege",
+      "start": 0,
+      "end": 38
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung in der Gesundheits- und Krankenpflege als Pflegefachkraft oder in der Altenpflege",
+      "start": 379,
+      "end": 486
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Intensivpflege",
+      "start": 509,
+      "end": 546
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "teamfähig",
+      "start": 556,
+      "end": 565
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Kommunikationsstärke",
+      "start": 584,
+      "end": 604
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse",
+      "start": 617,
+      "end": 644
+    }
+  ]
+}

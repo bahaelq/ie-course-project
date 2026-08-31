@@ -1,0 +1,24 @@
+{
+  "JOB_TITLE": [
+    "Vertriebsmitarbeiter (m/w/d) Außendienst"
+  ],
+  "HARD_SKILL": [
+    "CRM-System"
+  ],
+  "SOFT_SKILL": [
+    "Verhandlungsgeschick"
+  ],
+  "EXPERIENCE": [
+    "mehrjährige Erfahrung im Vertrieb"
+  ],
+  "EDUCATION": [
+    "abgeschlossene kaufmännische Ausbildung oder Studium"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse",
+    "Englischkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

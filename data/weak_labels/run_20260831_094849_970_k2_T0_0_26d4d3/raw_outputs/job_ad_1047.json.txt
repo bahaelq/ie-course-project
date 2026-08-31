@@ -1,0 +1,24 @@
+{
+  "JOB_TITLE": [
+    "Produktionsmitarbeiter (m/w/d) Chemie"
+  ],
+  "HARD_SKILL": [
+    "Anlagenbedienung"
+  ],
+  "SOFT_SKILL": [
+    "Sorgfalt"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in der chemischen Produktion"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Chemikant:in oder vergleichbare Qualifikation"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit",
+    "Schichtarbeit"
+  ]
+}

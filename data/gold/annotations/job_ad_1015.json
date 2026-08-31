@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1015",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Verwaltungsfachkraft (m/w/d).",
+      "start": 0,
+      "end": 29
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit",
+      "start": 133,
+      "end": 141
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Abgeschlossene Ausbildung im kaufmännischen Bereich oder vergleichbarer Abschluss",
+      "start": 218,
+      "end": 299
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung im Verwaltungsbereich",
+      "start": 301,
+      "end": 338
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "DATEV",
+      "start": 440,
+      "end": 445
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Vivendi NG",
+      "start": 542,
+      "end": 552
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+      "start": 555,
+      "end": 602
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Team-, Organisations- und Kommunikationsstärke",
+      "start": 719,
+      "end": 765
+    }
+  ]
+}

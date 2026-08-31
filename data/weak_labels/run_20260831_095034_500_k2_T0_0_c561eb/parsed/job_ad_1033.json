@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1033",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Ergotherapeut (m/w/d) Neurologie",
+      "start": 0,
+      "end": 32
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Bobath-Konzept",
+      "start": 495,
+      "end": 509
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Empathie",
+      "start": 526,
+      "end": 534
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Kreativität",
+      "start": 539,
+      "end": 550
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Neurologie",
+      "start": 380,
+      "end": 413
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Ergotherapeut:in",
+      "start": 320,
+      "end": 366
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 446,
+      "end": 468
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Voll- oder Teilzeit",
+      "start": 143,
+      "end": 162
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1062",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Einzelhandelskaufmann (m/w/d)",
+      "start": 0,
+      "end": 29
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Warenwirtschaftssystem",
+      "start": 399,
+      "end": 421
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Teamfähigkeit",
+      "start": 438,
+      "end": 451
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Zuverlässigkeit",
+      "start": 456,
+      "end": 471
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung im Lebensmitteleinzelhandel",
+      "start": 294,
+      "end": 331
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Kaufmann im Einzelhandel",
+      "start": 226,
+      "end": 280
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 350,
+      "end": 372
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 133,
+      "end": 141
+    }
+  ]
+}

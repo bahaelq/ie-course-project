@@ -1,0 +1,29 @@
+{
+  "id": "job_ad_1018",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Erzieherin / Erzieher (m/w/d) Kita",
+      "start": 0,
+      "end": 34
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als staatlich anerkannte Erzieherin bzw. staatlich anerkannter Erzieher",
+      "start": 382,
+      "end": 479
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Einfühlungsvermögen, Teamfähigkeit und Kommunikationsstärke",
+      "start": 516,
+      "end": 575
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse in Wort und Schrift",
+      "start": 589,
+      "end": 636
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1032",
+  "entities": [
+    {
+      "type": "HARD_SKILL",
+      "text": "Kenntnisse in Abrechnung nach EBM",
+      "start": 597,
+      "end": 630
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Freundliches Auftreten",
+      "start": 647,
+      "end": 669
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Organisationsstärke",
+      "start": 674,
+      "end": 693
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in einer Hausarztpraxis",
+      "start": 473,
+      "end": 506
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Medizinische Fachangestellte",
+      "start": 401,
+      "end": 459
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse in Wort und Schrift",
+      "start": 537,
+      "end": 584
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit 30 Stunden pro Woche, unbefristet",
+      "start": 191,
+      "end": 233
+    }
+  ]
+}

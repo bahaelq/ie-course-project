@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1004",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Elektriker für Maschinen (m/w/d)",
+      "start": 0,
+      "end": 32
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Abgeschlossene Ausbildung als Elektriker, Elektroniker oder Elektrotechniker",
+      "start": 827,
+      "end": 903
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Mindestens 1 Jahr Berufserfahrung nach der Ausbildung",
+      "start": 905,
+      "end": 958
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der Durchführung elektrischer Messungen an Anlagen oder Maschinen",
+      "start": 960,
+      "end": 1038
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Selbstständige und strukturierte Arbeitsweise",
+      "start": 1040,
+      "end": 1085
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Freundliches Auftreten im Kundenkontakt",
+      "start": 1087,
+      "end": 1126
+    }
+  ]
+}

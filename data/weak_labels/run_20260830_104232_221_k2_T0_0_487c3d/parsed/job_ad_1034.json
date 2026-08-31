@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1034",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Altenpfleger (m/w/d) Seniorenheim",
+      "start": 0,
+      "end": 33
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "DAN",
+      "start": 552,
+      "end": 555
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Geduld",
+      "start": 572,
+      "end": 578
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der stationären Altenpflege",
+      "start": 388,
+      "end": 428
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Altenpfleger:in oder Pflegefachkraft",
+      "start": 308,
+      "end": 374
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse in Wort und Schrift",
+      "start": 459,
+      "end": 501
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 151,
+      "end": 159
+    }
+  ]
+}

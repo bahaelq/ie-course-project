@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1028",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Personalsachbearbeiter (m/w/d).",
+      "start": 0,
+      "end": 31
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit 25 Stunden pro Woche",
+      "start": 133,
+      "end": 162
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene kaufmännische Ausbildung oder ein Studium mit Schwerpunkt Personal sowie eine Weiterbildung zum Personalfachkaufmann",
+      "start": 349,
+      "end": 480
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der Lohnabrechnung",
+      "start": 494,
+      "end": 525
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "SAP HCM",
+      "start": 544,
+      "end": 551
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "DATEV",
+      "start": 586,
+      "end": 591
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse in Wort und Schrift",
+      "start": 628,
+      "end": 675
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "strukturierte Arbeitsweise",
+      "start": 723,
+      "end": 749
+    }
+  ]
+}

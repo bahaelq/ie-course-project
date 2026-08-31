@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1029",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Filialleiter Einzelhandel (m/w/d)",
+      "start": 0,
+      "end": 33
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 113,
+      "end": 121
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung im Einzelhandel",
+      "start": 330,
+      "end": 371
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Führungserfahrung im Einzelhandel",
+      "start": 423,
+      "end": 456
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 512,
+      "end": 534
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "kommunikationsstark",
+      "start": 544,
+      "end": 563
+    }
+  ]
+}

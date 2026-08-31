@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Sozialarbeiter (m/w/d) Familienhilfe"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Empathie"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in der Familienhilfe"
+  ],
+  "EDUCATION": [
+    "abgeschlossenes Studium der Sozialen Arbeit"
+  ],
+  "LANGUAGE": [
+    "sehr gute Deutschkenntnisse in Wort und Schrift"
+  ],
+  "WORK_MODE": [
+    "Teilzeit 25 Stunden pro Woche"
+  ]
+}

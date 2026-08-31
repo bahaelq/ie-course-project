@@ -1,0 +1,24 @@
+{
+  "JOB_TITLE": [
+    "Hotelfachmann (m/w/d) Rezeption"
+  ],
+  "HARD_SKILL": [
+    "Fidelio"
+  ],
+  "SOFT_SKILL": [
+    "Serviceorientierung"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung an der Rezeption"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Hotelfachmann/-frau"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse",
+    "Englischkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

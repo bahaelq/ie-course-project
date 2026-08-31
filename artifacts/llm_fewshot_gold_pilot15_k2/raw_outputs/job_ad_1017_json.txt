@@ -1,0 +1,20 @@
+{
+  "JOB_TITLE": [
+    "Pflegefachkraft (m/w/d) Intensivpflege"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "teamfähig",
+    "Kommunikationsstärke"
+  ],
+  "EXPERIENCE": [
+    "Berufserfahrung in der Intensivpflege"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung in der Gesundheits- und Krankenpflege als Pflegefachkraft oder in der Altenpflege"
+  ],
+  "LANGUAGE": [
+    "sehr gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": []
+}

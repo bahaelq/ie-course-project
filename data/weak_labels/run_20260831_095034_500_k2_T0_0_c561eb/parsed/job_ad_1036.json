@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1036",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Softwareentwickler Python (m/w/d) Backend",
+      "start": 0,
+      "end": 41
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "analytische Denkweise",
+      "start": 559,
+      "end": 580
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Teamfähigkeit",
+      "start": 585,
+      "end": 598
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "mehrjährige Berufserfahrung in der Softwareentwicklung mit Python",
+      "start": 385,
+      "end": 450
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenes Studium der Informatik oder vergleichbare Ausbildung",
+      "start": 303,
+      "end": 371
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Englischkenntnisse",
+      "start": 469,
+      "end": 492
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 149,
+      "end": 157
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Hybrid möglich",
+      "start": 159,
+      "end": 173
+    }
+  ]
+}

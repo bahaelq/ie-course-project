@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1013",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Softwareentwickler Java (m/w/d).",
+      "start": 0,
+      "end": 32
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 113,
+      "end": 121
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Homeoffice möglich",
+      "start": 136,
+      "end": 154
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Spring Boot",
+      "start": 311,
+      "end": 322
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Qualifikation",
+      "start": 421,
+      "end": 520
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "mehrjährige Berufserfahrung in der Softwareentwicklung mit Java",
+      "start": 534,
+      "end": 597
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Scrum",
+      "start": 731,
+      "end": 736
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse (mind. B2) und gute Englischkenntnisse",
+      "start": 749,
+      "end": 815
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "job_ad_1053",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Disponent (m/w/d) Spedition",
+      "start": 0,
+      "end": 27
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Dispositionssoftware",
+      "start": 466,
+      "end": 486
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Organisationsstärke",
+      "start": 503,
+      "end": 522
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Kommunikationsstärke",
+      "start": 527,
+      "end": 547
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Disposition",
+      "start": 341,
+      "end": 375
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Kaufmann für Spedition und Logistikdienstleistung",
+      "start": 248,
+      "end": 327
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 394,
+      "end": 416
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Englischkenntnisse",
+      "start": 421,
+      "end": 439
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 123,
+      "end": 131
+    }
+  ]
+}

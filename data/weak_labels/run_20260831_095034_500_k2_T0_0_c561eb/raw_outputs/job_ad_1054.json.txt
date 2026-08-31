@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Staplerfahrer (m/w/d) Logistikzentrum"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Zuverlässigkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung als Staplerfahrer"
+  ],
+  "EDUCATION": [
+    "güntiger Staplerschein"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

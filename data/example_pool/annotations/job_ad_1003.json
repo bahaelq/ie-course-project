@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1003",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Eisenbahnfahrzeugführer (m/w/d)",
+      "start": 0,
+      "end": 31
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Abgeschlossene Ausbildung als Triebfahrzeugführer:in",
+      "start": 1460,
+      "end": 1512
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Sehr gute Deutschkenntnisse (mind. B2)",
+      "start": 1575,
+      "end": 1613
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "mehrjährige Erfahrung im Eisenbahnbetrieb, bevorzugt im Personenverkehr",
+      "start": 1779,
+      "end": 1850
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung auf lokbespannten Reisezügen",
+      "start": 1852,
+      "end": 1890
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Hohes Sicherheits- und Verantwortungsbewusstsein",
+      "start": 2127,
+      "end": 2175
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Serviceorientierung",
+      "start": 2183,
+      "end": 2202
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Teamfähigkeit",
+      "start": 2207,
+      "end": 2220
+    }
+  ]
+}

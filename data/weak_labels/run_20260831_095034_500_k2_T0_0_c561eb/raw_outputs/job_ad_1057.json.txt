@@ -1,0 +1,24 @@
+{
+  "JOB_TITLE": [
+    "Buchhalter (m/w/d) Finanzbuchhaltung"
+  ],
+  "HARD_SKILL": [
+    "DATEV",
+    "SAP FI"
+  ],
+  "SOFT_SKILL": [
+    "Genauigkeit"
+  ],
+  "EXPERIENCE": [
+    "mehrjährige Berufserfahrung in der Finanzbuchhaltung"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Steuerfachangestellter oder Bilanzbuchhalter"
+  ],
+  "LANGUAGE": [
+    "sehr gute Deutschkenntnisse in Wort und Schrift"
+  ],
+  "WORK_MODE": [
+    "Teilzeit 20 Stunden pro Woche"
+  ]
+}

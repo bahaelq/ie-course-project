@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1048",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Qualitätsprüfer (m/w/d) Metall",
+      "start": 0,
+      "end": 30
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Messtechnik",
+      "start": 471,
+      "end": 482
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Genauigkeit",
+      "start": 503,
+      "end": 514
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der Qualitätsprüfung",
+      "start": 370,
+      "end": 403
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Zerspanungsmechaniker",
+      "start": 272,
+      "end": 323
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 422,
+      "end": 444
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 141,
+      "end": 149
+    }
+  ]
+}

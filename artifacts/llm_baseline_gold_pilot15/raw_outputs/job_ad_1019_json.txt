@@ -1,0 +1,9 @@
+{
+  "JOB_TITLE": ["Python Developer (m/w/d)", "Python Developer (m/w/d)"],
+  "HARD_SKILL": ["Python", "FastAPI", "Flask", "Django", "SQL", "NoSQL", "Containerisierung"],
+  "SOFT_SKILL": ["sauberen, testbaren Code", "gute Englischkenntnisse"],
+  "EXPERIENCE": ["mehrjährige praktische Erfahrung", "Vollzeit, unbefristet"],
+  "EDUCATION": ["abgeschlossenes Studium der Informatik", "vergleichbare Qualifikation"],
+  "LANGUAGE": ["Englisch"],
+  "WORK_MODE": ["flexible Arbeitszeiten", "mobiles Arbeiten", "Weiterbildungen"]
+}

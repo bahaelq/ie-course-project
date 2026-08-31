@@ -1,0 +1,2648 @@
+[
+  {
+    "id": "job_ad_1006",
+    "prompt": "json",
+    "error_type": "invalid_output",
+    "type": "INVALID",
+    "text": "request failed"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Produktion"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Produktionsplanung"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "KVP"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Produktion"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Produktions-"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Logistikprozesse"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Produktion"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Produktionsentwicklung"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Prozesse"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Produktions-"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Logistikdaten"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Prozessabläufen"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Wertströmen"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Dashboards"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "KPI-Systemen"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Optimierungspotenziale"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Verbesserungspotenzialen"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Lean"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Industrie 4.0"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Verbesserungsinitiativen"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Umsetzung"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Verbesserung"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Verbesserungsinitiativen"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Verbesserungsprozesses"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Erfolgskontrolle"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Produktion"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Standortentwicklung"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Produktion"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Arbeitsvorbereitung"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Logistik"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "IT"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Maschinenbau"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Produktion"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Daten"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Prozessen"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Werkstudent / Werkstudentin Produktion (m/w/d)"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "Laufendes Studium (Ingenieurwesen, Wirtschaftsingenieurwesen mit Schwerpunkt Maschinenbau, Produktion o.ä.)"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "strukturierte, selbstständige Arbeitsweise"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "hohe Kommunikations- und Teamfähigkeit"
+  },
+  {
+    "id": "job_ad_1006",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "Python"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Abgeschlossene Ausbildung oder Studium vorzugsweise im künstlerischen Bereich (z.B.: Schauspiel, Kulturmanagement, Theaterwissenschaften, Veranstaltungsmanagement)"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Festanstellung"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Homeoffice"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Flexible Arbeitszeiten"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Teilzeit (50 %)"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "sicheres Urteilsvermögen bei der Auswahl und Bewertung künstlerischer Talente"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "Abgeschlossene Ausbildung oder Studium"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Home Office"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Casting und Produktion"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Produktion"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "LOCATION",
+    "text": "Hamburg"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "COMPANY",
+    "text": "Eve Connex GmbH"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "COMPANY",
+    "text": "engesser marketing gmbh"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Produktion und Entwicklung von Eventkonzepten im Bereich der Erlebnisgastronomie"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "DAS KRIMINAL DINNER"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Dinnershow-Formate wie das Burlesque-, das Escape- oder das Musical-Dinner"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "2.500 Events"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "DATE",
+    "text": "01.10.2026"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Produktionsteam"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "LOCATION",
+    "text": "Hamburg"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Sicherstellung der Stellenbesetzung für verschiedene Dinnershow-Formate (Krimi, Varieté, Burlesque, Musical, Comedy etc.)"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Sichtung und Bewertung eingehender Bewerbungen sowie Vorausauswahl geeigneter Kandidat*innen"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Kommunikation mit Bewerber*innen vor dem Casting, Vermittlung der Rahmenbedingungen sowie Vorqualifizierung hinsichtlich Eignung, Verfügbarkeit und Anforderungen der jeweiligen Produktion"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Organisation, Betreuung und Durchführung von Castings in Abstimmung mit den Produzent*innen"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Ausbau, Verwaltung und Pflege der bestehenden Castingkartei"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Erstellung, Verwaltung und Veröffentlichung von Ausschreibung auf diversen Castingplattformen"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Aufbau und Pflege eines Netzwerks zu Schauspielschulen, Agenturen sowie mit relevanten Kontakten auf den gängigen Social-Media- Plattformen"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Mitarbeit bei der Produktion der Show-Formate"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Büro- und Verwaltungsaufgaben wie Terminplanung, Angebotserstellung und Bestellwesen"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Eigenverantwortliche Planung, Organisation und Betreuung eigener Projekte"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "wrong_type",
+    "type": "EDUCATION",
+    "text": "Erfahrungen im Bereich Casting, vorzugsweise im Kultur- und Theaterbereich"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Erfahrung mit künstlerischen Prozessen und ein sicheres Urteilsvermögen bei der Auswahl und Bewertung künstlerischer Talente"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Ausbildung oder Studium"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Schauspiel, Kulturmanagement, Theaterwissenschaften, Veranstaltungsmanagement"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Sicherer Umgang mit MS Office"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Mitarbeiter/in Casting und Produktion (m/w/d)"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "Erfahrungen im Bereich Casting, vorzugsweise im Kultur- und Theaterbereich"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "sicheres Urteilsvermögen bei der Auswahl und Bewertung künstlerischer Talente"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "Abgeschlossene Ausbildung oder Studium"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "offene, kommunikative und organisationsstarke Persönlichkeit"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "MS Office"
+  },
+  {
+    "id": "job_ad_1007",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Home Office"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Software- und Dienstleistungsportfolios"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "CRM-Systeme"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Office-Anwendungen"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Angebotserstellung"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Vertragsverhandlung"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Kommunikations- und Präsentationsstärke"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Eigeninitiative"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Zielorientierung"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Teamfähigkeit"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Kooperationsbereitschaft"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Vertriebserfahrung"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "B2B-Umfeld"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Software"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "IT"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "SaaS"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Consulting"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Wirtschaftswissenschaften"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Recht"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Informatik"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Wirtschaftsingenieurwesen"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutsch"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Englisch"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Büro in Eschborn"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Möglichkeit zum mobilen Arbeiten"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "HubSpot"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "Abgeschlossenes Studium im Bereich Wirtschaftswissenschaften, Recht, Informatik, Wirtschaftsingenieurwesen"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "Nachweisbare Vertriebserfahrung erwünscht, idealerweise im B2B-Umfeld"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "SPIN"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "Hohe Eigeninitiative, Zielorientierung und unternehmerisches Denken"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID_OUTPUT",
+    "text": "Sales Manager (w/m/d). Clarius.Services GmbH, Hamburg. Feste Anstellung, Homeoffice möglich, Vollzeit. Als Sales Manager für die Clarius Group bist Du für den lösungsorientierten Vertrieb komplexer Produkte sowie von Software- und Dienstleistungsportfolios verantwortlich. Dabei unterstützt Du B2B-Kunden im Rahmen eines beratenden Vertriebsansatzes bei der Identifikation passender Lösungen, baust langfristige Kundenbeziehungen auf und trägst maßgeblich zur Erreichung messbarer Umsatzziele bei. Ihre Aufgaben Vertrieb und Kundenakquise Aktive Neukundenakquise sowie Pflege und Ausbau des bestehenden B2B-Kundenstamms Durchführung von Bedarfsanalysen und Qualifizierung von Verkaufschancen (Leads), die gemeinsam von Marketing und Vertrieb identifiziert werden Entwicklung maßgeschneiderter Lösungskonzepte in enger Abstimmung mit dem Kunden Steuerung des gesamten Vertriebszyklus – von der Erstansprache bis zum Vertragsabschluss Verhandlungsführung auf Entscheidungsträger-Ebene (C-Level, IT-Leitung, Fachbereiche)  Beratung und Solution Selling Analyse von Kundenanforderungen und Ableitung passender Lösungsszenarien Präsentation von Produkten, Demos und Proof-of-Concept (PoC) beim Kunden Enge Zusammenarbeit mit Marketing, Produktmanagement und technischen Consultants Erstellung von Angeboten, Leistungsbeschreibungen und Business Cases Begleitung von Ausschreibungen (RFP/RFI) inkl. Koordination interner Fachbereiche  Account Management & Kundenbindung Aufbau und Pflege langfristiger, strategischer Kundenbeziehungen Regelmäßige Kundengespräche Gelegentliche Geschäftsreisen (ein bis zwei pro Monat) und Vor-Ort-Termine Identifikation von Upselling- und Cross-Selling-Potenzial im Bestandskundenbereich Sicherstellung einer hohen Kundenzufriedenheit in Zusammenarbeit mit dem Customer Success Team  Planung und Reporting Verantwortung für die Erreichung individueller Umsatz- und Pipeline-Ziele (Quota) Pflege des CRM-Systems HubSpot und Dokumentation aller Vertriebsaktivitäten Erstellung von Forecasts, Vertriebsberichten und regelmäßigen Status-Updates Teilnahme an Sales-Reviews, Pipeline-Meetings und strategischen Planungsrunden  Markt- und Wettbewerbsbeobachtung Beobachtung von Markttrends, Technologieentwicklungen und Wettbewerbsaktivitäten Weitergabe von Marktfeedback an Produktmanagement und Marketing Mitwirkung an der Weiterentwicklung von Vertriebsstrategien und Go-to-Market-Ansätzen Erfolgskennzahlen (KPIs) Du erreichst und übertriffst Deine vereinbarten Vertriebs- und Umsatzziele. Du baust eine nachhaltige und belastbare Vertriebspipeline auf und entwickelst diese kontinuierlich weiter. Du identifizierst und qualifizierst regelmäßig neue Geschäftsmöglichkeiten bei Neu- und Bestandskunden. Du schaffst eine hohe Kundenzufriedenheit und entwickelst langfristige Kundenbeziehungen. Du pflegst CRM-Daten zuverlässig und sorgst für eine hohe Qualität Deiner Forecasts und Vertriebsplanung. Ihr Profil"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Sales Manager (w/m/d)"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "HubSpot"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "Abgeschlossenes Studium im Bereich Wirtschaftswissenschaften, Recht, Informatik, Wirtschaftsingenieurwesen"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "Nachweisbare Vertriebserfahrung erwünscht, idealerweise im B2B-Umfeld"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "SPIN"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "Hohe Eigeninitiative, Zielorientierung und unternehmerisches Denken"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift"
+  },
+  {
+    "id": "job_ad_1008",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Hybrides Arbeiten"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "json",
+    "error_type": "invalid_output",
+    "type": "INVALID",
+    "text": "request failed"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Produktion"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Vollzeit"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Aufzugsnotrufsysteme"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Mitarbeiter Produktion"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Voll- oder Teilzeit"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Elektrokomponenten"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Qualitätssicherung"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Erfahrungen"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Löten"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Humor"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Angemessener Jahresurlaub"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Arbeitsumfeld"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Vollzeit"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Elektrotechnik, Feinmechanik & Optik"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Mitarbeiter Produktion (m/w/d)"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Voll- oder Teilzeit (jedoch Minimum 30 Wochenstunden)"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "Bestückung von Leiterplatinen"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "Wellen-Lötanlage"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "Erfahrungen aus der Produktion mitbringst oder sogar Löten kannst (SMD und THT)"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "Positiv denkst und bereit bist Neues zu lernen"
+  },
+  {
+    "id": "job_ad_1009",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "Kooperativ und konstruktiv mit Deinen Kolleg*innen umgehst"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "kreativ"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "kommunikativ"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "teamorientiert"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "erste praktische Erfahrungen in der Videoproduktion"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Fachrichtungen Marketing, Kommunikation, Multimedia oder eines vergleichbaren Studiengangs"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutsch"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Homeoffice möglich, Teilzeit"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "20 Wochenstunden"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "Studiengang der Fachrichtungen Marketing, Kommunikation, Multimedia"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "erste praktische Erfahrungen in der Videoproduktion – von der Aufnahme bis zum Schnitt"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "kreativ, verfügst über ein gutes Auge für Bildgestaltung, Storytelling und aktuelle Trends"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "kommunikativ, teamorientiert"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "Deutschkenntnisse sind fließend in Wort und Schrift"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "mobiles Arbeiten"
+  },
+  {
+    "id": "job_ad_1010",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID",
+    "text": "request failed"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Pflegefachkraft (w/m/d)"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Manchester Triage System"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "therapeutisch-diagnostischen Eingriffen"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "kommunikative Kompetenz"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Überzeugungskraft"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Kreativität"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Empathie"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung als Pflegefachkraft"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Gesundheits- und Krankenpfleger:in"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Altenpfleger:in"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Notfallsanitäter:in"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Pflegefachkraft (w/m/d) ZNA"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossenen Ausbildung als Pflegefachkraft, Gesundheits- und Krankenpfleger:in, Altenpfleger:in oder Notfallsanitäter:in"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "ausgeprägte kommunikative Kompetenz mit Überzeugungskraft, Kreativität und Empathie"
+  },
+  {
+    "id": "job_ad_1011",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID",
+    "text": "request failed"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "json",
+    "error_type": "invalid_output",
+    "type": "INVALID",
+    "text": "request failed"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Erzieher (m/w/d)"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Erzieher (m/w/d)"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "staatlich anerkannte:r Erzieher:in"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Erzieher (m/w/d) / verschiedene Standorte."
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "Ausbildung als staatlich anerkannte:r Erzieher:in oder eine vergleichbare Qualifikation, zum Beispiel ein Studium mit Haupt- oder Nebenfach Pädagogik"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "gute Deutschkenntnisse in Wort und Schrift"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "selbstständige und strukturierte Arbeitsweise"
+  },
+  {
+    "id": "job_ad_1012",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "Teamfähigkeit und interkulturelle Kompetenz"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Softwareentwickler Java (m/w/d)"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Softwareentwickler Java (m/w/d)"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Java"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Hibernate"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Maven"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Java"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Python"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "C++"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Spring"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "agile Methoden"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "SOFT_SKILL",
+    "text": "Scrum"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "mehrjährige Berufserfahrung"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "abgeschlossenes Studium der Informatik"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Wirtschaftsinformatik"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutsch"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Englisch"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "unbefristet"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "flexible Arbeitszeiten"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "mobiles Arbeiten"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Softwareentwickler Java (m/w/d)."
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "mehrjährige Berufserfahrung in der Softwareentwicklung mit Java"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "Scrum"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "sehr gute Deutschkenntnisse (mind. B2) und gute Englischkenntnisse"
+  },
+  {
+    "id": "job_ad_1013",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID",
+    "text": "request failed"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Schaltpläne"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Analyse"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Optimierung"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung als Elektroniker"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Elektroniker für Energie- und Gebäudetechnik"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutsch"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Englisch"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "unbefristetes Arbeitsverhältnis"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung als Elektroniker, Elektroniker für Energie- und Gebäudetechnik oder eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "sehr gute Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Elektroniker (m/w/d)"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Energie- und Gebäudetechnik"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "LOCATION",
+    "text": "Hamburg"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "LOCATION",
+    "text": "Hamburg"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Elektroniker (m/w/d)"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Energie- und Gebäudetechnik"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "LOCATION",
+    "text": "Hamburg"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Schaltpläne"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Ausbildung als Elektroniker, Elektroniker für Energie- und Gebäudetechnik oder eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Führerschein Klasse B"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Englischkenntnisse"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Arbeitsumfeld"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Werkzeugen"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "unbefristetes Arbeitsverhältnis"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Urlaub"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Weiterbildungen"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Elektroniker (m/w/d) Energie- und Gebäudetechnik"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung als Elektroniker, Elektroniker für Energie- und Gebäudetechnik oder eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1014",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "sehr gute Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Verwaltungsfachkraft (m/w/d)"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "MS-Office-Programmen"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Professionelle Kommunikation"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "souveräner Umgang mit Ämtern und Kostenträgern"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Ausgeprägte Sozialkompetenz"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "empathischer Umgang mit Menschen in herausfordernden Lebenssituationen"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Teilzeit unbefristet"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Verwaltungsfachkraft (m/w/d)."
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Teilzeit"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "Sehr gute Deutschkenntnisse in Wort und Schrift"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID_OUTPUT",
+    "text": "Verwaltungsfachkraft (m/w/d). Stiftung Fallen Anker Hamburg, Hamburg. Verwaltungsfachkraft (m/w/d) für Pflegeeinrichtung in Hamburg, Teilzeit unbefristet. Alles was in der Verwaltung unserer Pflegeeinrichtung anfällt. Abgeschlossene Ausbildung im kaufmännischen Bereich oder vergleichbarer Abschluss. Berufserfahrung im Verwaltungsbereich. Kenntnisse im Finanz- und Rechnungswesen und in der vorbereitenden Buchhaltung. Sicherer Umgang mit DATEV und den MS-Office-Programmen. Erfahrung im Umgang mit einer Datenbank (Bewohnerverwaltung, z.B. Vivendi NG). Sehr gute Deutschkenntnisse in Wort und Schrift. Professionelle Kommunikation und souveräner Umgang mit Ämtern und Kostenträgern. Ausgeprägte Sozialkompetenz sowie Team-, Organisations- und Kommunikationsstärke. Empathischer Umgang mit Menschen in herausfordernden Lebenssituationen. Wir bieten gute Verkehrsanbindung, betriebliche Altersvorsorge, Zuschuss zum Deutschlandticket, 31 Tage Urlaub."
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Verwaltungsfachkraft (m/w/d)."
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Teilzeit"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "Abgeschlossene Ausbildung im kaufmännischen Bereich oder vergleichbarer Abschluss"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "Berufserfahrung im Verwaltungsbereich"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "DATEV"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "HARD_SKILL",
+    "text": "Vivendi NG"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "Sehr gute Deutschkenntnisse in Wort und Schrift"
+  },
+  {
+    "id": "job_ad_1015",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "Team-, Organisations- und Kommunikationsstärke"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Verkäufer (m/w/d)"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "kaufmännische Berufsausbildung"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Einzelhandel"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Kundenkontakt"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "erfahrene"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "erste Berufserfahrung"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "kaufmännische Berufsausbildung"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Vergleichbares"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutsch"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "flexible Arbeitszeiten"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Verkäufer (m/w/d) Einzelhandel"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossene kaufmännische Berufsausbildung im Einzelhandel"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "erste Berufserfahrung im Einzelhandel"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "gute Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "erfahrene Verkäufer (m/w/d)"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Vergleichbares"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Kundinnen und Kunden"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Waren"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Einkaufserlebnis"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Freude am Kundenkontakt"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "unbefristetes Arbeitsverhältnis"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "flexible Arbeitszeiten"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Mitarbeiterrabatte"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Weiterbildungen"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Verkäufer (m/w/d) Einzelhandel"
+  },
+  {
+    "id": "job_ad_1016",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossene kaufmännische Berufsausbildung im Einzelhandel"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "HARD_SKILL",
+    "text": "abgeschlossene Ausbildung in der Gesundheits- und Krankenpflege als Pflegefachkraft oder in der Altenpflege"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "unbefristetes Arbeitsverhältnis"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "sehr gute Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Pflegefachkraft (m/w/d)"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Ausbildung in der Gesundheits- und Krankenpflege als Pflegefachkraft oder in der Altenpflege"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "unbefristetes Arbeitsverhältnis"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Pflegefachkraft (m/w/d) Intensivpflege"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung in der Gesundheits- und Krankenpflege als Pflegefachkraft oder in der Altenpflege"
+  },
+  {
+    "id": "job_ad_1017",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "sehr gute Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Erzieherin / Erzieher (m/w/d)"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "staatlich anerkannte Erzieherin"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "staatlich anerkannter Erzieher"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "pädagogisches Geschick"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Einfühlungsvermögen"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Teamfähigkeit"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "Kommunikationsstärke"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Kita"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Kindertagesstätten"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "im Team"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "unbefristetes Arbeitsverhältnis"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Erzieherin / Erzieher (m/w/d) Kita"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung als staatlich anerkannte Erzieherin bzw. staatlich anerkannter Erzieher"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "SOFT_SKILL",
+    "text": "Einfühlungsvermögen, Teamfähigkeit und Kommunikationsstärke"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "sehr gute Deutschkenntnisse in Wort und Schrift"
+  },
+  {
+    "id": "job_ad_1018",
+    "prompt": "marker",
+    "error_type": "invalid_output",
+    "type": "INVALID",
+    "text": "request failed"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Python Developer (m/w/d)"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Python Developer (m/w/d)"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Python"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Django"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "SQL"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "NoSQL"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Containerisierung"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "SOFT_SKILL",
+    "text": "sauberen, testbaren Code"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "SOFT_SKILL",
+    "text": "gute Englischkenntnisse"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "mehrjährige praktische Erfahrung"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Vollzeit, unbefristet"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "abgeschlossenes Studium der Informatik"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Englisch"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "flexible Arbeitszeiten"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Weiterbildungen"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Python Developer (m/w/d)."
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Vollzeit"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "mehrjährige praktische Erfahrung in der Softwareentwicklung mit Python"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "gute Englischkenntnisse"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Python Developer (m/w/d)"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "COMPANY",
+    "text": "Exxeta"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "rejected_marker",
+    "type": "LOCATION",
+    "text": "Hamburg"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Vollzeit, unbefristet"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Python"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Django"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Studium der Informatik"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "Qualifikation"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung in der Softwareentwicklung"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Python"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "Erfahrung"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Datenbanken (SQL oder NoSQL)"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Datenmodellierung"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Containerisierung"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Englischkenntnisse"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "flexible Arbeitszeiten"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "Weiterbildungen"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Python Developer (m/w/d)."
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "WORK_MODE",
+    "text": "Vollzeit"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EXPERIENCE",
+    "text": "mehrjährige praktische Erfahrung in der Softwareentwicklung mit Python"
+  },
+  {
+    "id": "job_ad_1019",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "gute Englischkenntnisse"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Elektroniker für Betriebstechnik"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Elektroniker für Betriebstechnik"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "HARD_SKILL",
+    "text": "Führerschein Klasse B"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "wrong_type",
+    "type": "SOFT_SKILL",
+    "text": "gute Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung als Elektroniker für Betriebstechnik"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "Deutsch"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Elektroniker für Betriebstechnik (m/w/d)."
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung als Elektroniker für Betriebstechnik oder eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "json",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "gute Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "JOB_TITLE",
+    "text": "Elektroniker für Betriebstechnik"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "WORK_MODE",
+    "text": "unbefristet"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "eine abgeschlossene Ausbildung als Elektroniker für Betriebstechnik"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EDUCATION",
+    "text": "eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "LANGUAGE",
+    "text": "einen Führerschein Klasse B"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "wrong_type",
+    "type": "SOFT_SKILL",
+    "text": "gute Deutschkenntnisse"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "hallucinated",
+    "type": "EXPERIENCE",
+    "text": "ein unbefristetes Arbeitsverhältnis"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "JOB_TITLE",
+    "text": "Elektroniker für Betriebstechnik (m/w/d)."
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "EDUCATION",
+    "text": "abgeschlossene Ausbildung als Elektroniker für Betriebstechnik oder eine vergleichbare Qualifikation"
+  },
+  {
+    "id": "job_ad_1020",
+    "prompt": "marker",
+    "error_type": "missed",
+    "type": "LANGUAGE",
+    "text": "gute Deutschkenntnisse"
+  }
+]

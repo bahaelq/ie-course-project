@@ -1,0 +1,25 @@
+{
+  "JOB_TITLE": [
+    "Bauzeichner (m/w/d) Architektur"
+  ],
+  "HARD_SKILL": [
+    "CAD",
+    "AutoCAD",
+    "Revit"
+  ],
+  "SOFT_SKILL": [
+    "Genauigkeit und Sorgfalt"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung mit CAD-Software"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Bauzeichner:in"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

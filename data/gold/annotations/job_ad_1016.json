@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1016",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Verkäufer (m/w/d) Einzelhandel",
+      "start": 0,
+      "end": 30
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 127,
+      "end": 135
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene kaufmännische Berufsausbildung im Einzelhandel",
+      "start": 237,
+      "end": 298
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "erste Berufserfahrung im Einzelhandel",
+      "start": 505,
+      "end": 542
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "teamfähig",
+      "start": 589,
+      "end": 598
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 617,
+      "end": 639
+    }
+  ]
+}

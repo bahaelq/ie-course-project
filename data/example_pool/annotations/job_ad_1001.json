@@ -1,0 +1,77 @@
+{
+  "id": "job_ad_1001",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Paketzusteller (m/w/d)",
+      "start": 0,
+      "end": 22
+    },
+    {
+      "type": "JOB_TITLE",
+      "text": "Paketzusteller",
+      "start": 122,
+      "end": 136
+    },
+    {
+      "type": "JOB_TITLE",
+      "text": "Paketzusteller",
+      "start": 1392,
+      "end": 1406
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 93,
+      "end": 101
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 679,
+      "end": 687
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "38,5 Stunden/Woche",
+      "start": 697,
+      "end": 715
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "fünf Werktagen in der Woche",
+      "start": 1479,
+      "end": 1506
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Deutsch",
+      "start": 375,
+      "end": 382
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "wetterfest",
+      "start": 404,
+      "end": 414
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "gut anpacken",
+      "start": 426,
+      "end": 438
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "zuverlässig",
+      "start": 448,
+      "end": 459
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "hängst dich rein",
+      "start": 464,
+      "end": 480
+    }
+  ]
+}

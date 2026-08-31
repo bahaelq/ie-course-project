@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Verfahrensmechaniker (m/w/d) Kunststoff"
+  ],
+  "HARD_SKILL": [
+    "Spritzguss"
+  ],
+  "SOFT_SKILL": [],
+  "EXPERIENCE": [
+    "Berufserfahrung in der Kunststoffverarbeitung"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Verfahrensmechaniker für Kunststoff- und Kautschuktechnik"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

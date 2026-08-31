@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1057",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Buchhalter (m/w/d) Finanzbuchhaltung",
+      "start": 0,
+      "end": 36
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "DATEV",
+      "start": 535,
+      "end": 540
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "SAP FI",
+      "start": 542,
+      "end": 548
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Genauigkeit",
+      "start": 565,
+      "end": 576
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "mehrjährige Berufserfahrung in der Finanzbuchhaltung",
+      "start": 390,
+      "end": 442
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Steuerfachangestellter oder Bilanzbuchhalter",
+      "start": 302,
+      "end": 376
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse in Wort und Schrift",
+      "start": 461,
+      "end": 508
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Teilzeit 20 Stunden pro Woche",
+      "start": 155,
+      "end": 184
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "JOB_TITLE": [
+    "Office Manager (m/w/d) Assistenz."
+  ],
+  "HARD_SKILL": [
+    "MS Office"
+  ],
+  "SOFT_SKILL": [
+    "Organisationsstärke",
+    "Kommunikationsstärke"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Office Management"
+  ],
+  "EDUCATION": [
+    "abgeschlossene kaufmännische Ausbildung oder Studium"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse",
+    "Englischkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

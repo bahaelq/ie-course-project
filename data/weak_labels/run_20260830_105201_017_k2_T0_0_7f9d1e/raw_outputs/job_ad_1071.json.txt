@@ -1,0 +1,22 @@
+{
+  "JOB_TITLE": [
+    "Servicekraft (m/w/d) Restaurant",
+    "Servicekraft (m/w/d) Restaurant bei Restaurant Elbe in Hamburg"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Freundlichkeit und Teamfähigkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Service"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung in der Gastronomie"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Teilzeit 25 Stunden pro Woche, unbefristet"
+  ]
+}

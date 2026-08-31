@@ -1,0 +1,24 @@
+{
+  "JOB_TITLE": [
+    "Verkäufer (m/w/d) Mode"
+  ],
+  "HARD_SKILL": [
+    "Kassensystem"
+  ],
+  "SOFT_SKILL": [
+    "Kundenorientierung",
+    "Freundlichkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Verkauf von Vorteil"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung im Einzelhandel"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Teilzeit 20 Stunden pro Woche, unbefristet"
+  ]
+}

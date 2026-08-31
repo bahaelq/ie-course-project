@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Dachdecker (m/w/d)"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Teamfähigkeit"
+  ],
+  "EXPERIENCE": [
+    "Berufserfahrung als Dachdecker"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Dachdecker:in"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

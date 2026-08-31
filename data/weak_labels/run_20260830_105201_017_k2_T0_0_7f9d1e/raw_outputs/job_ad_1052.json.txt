@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Lagerist (m/w/d) Hochregal"
+  ],
+  "HARD_SKILL": [
+    "Hochregalstapler"
+  ],
+  "SOFT_SKILL": [
+    "Sorgfalt"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Hochregallager"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Fachlagerist"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

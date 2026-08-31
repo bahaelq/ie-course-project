@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1008",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Sales Manager (w/m/d)",
+      "start": 0,
+      "end": 21
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "HubSpot",
+      "start": 1938,
+      "end": 1945
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Abgeschlossenes Studium im Bereich Wirtschaftswissenschaften, Recht, Informatik, Wirtschaftsingenieurwesen",
+      "start": 2959,
+      "end": 3065
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Nachweisbare Vertriebserfahrung erwünscht, idealerweise im B2B-Umfeld",
+      "start": 3169,
+      "end": 3238
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "SPIN",
+      "start": 3343,
+      "end": 3347
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Hohe Eigeninitiative, Zielorientierung und unternehmerisches Denken",
+      "start": 3593,
+      "end": 3660
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+      "start": 3834,
+      "end": 3895
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Hybrides Arbeiten",
+      "start": 4015,
+      "end": 4032
+    }
+  ]
+}

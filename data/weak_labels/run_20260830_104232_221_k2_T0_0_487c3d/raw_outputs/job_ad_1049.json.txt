@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Schweißer (m/w/d) MAG. Stahlbau Hamburg Hamburg, Hamburg."
+  ],
+  "HARD_SKILL": [
+    "MAG-Schweißen"
+  ],
+  "SOFT_SKILL": [
+    "Präzision"
+  ],
+  "EXPERIENCE": [
+    "mehrjährige Erfahrung im MAG-Schweißen"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Schweißer oder Metallbauer"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

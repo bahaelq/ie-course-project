@@ -1,0 +1,65 @@
+{
+  "id": "job_ad_1010",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Werkstudent (m/w/d) Content Produktion Video/Social Media",
+      "start": 0,
+      "end": 57
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "20 Wochenstunden",
+      "start": 733,
+      "end": 749
+    },
+    {
+      "type": "EDUCATION",
+      "text": "Studiengang der Fachrichtungen Marketing, Kommunikation, Multimedia",
+      "start": 1377,
+      "end": 1444
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "erste praktische Erfahrungen in der Videoproduktion – von der Aufnahme bis zum Schnitt",
+      "start": 1529,
+      "end": 1615
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Adobe Premiere",
+      "start": 1694,
+      "end": 1708
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "CapCut",
+      "start": 1714,
+      "end": 1720
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "kreativ, verfügst über ein gutes Auge für Bildgestaltung, Storytelling und aktuelle Trends",
+      "start": 1880,
+      "end": 1970
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "kommunikativ, teamorientiert",
+      "start": 1980,
+      "end": 2008
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "Deutschkenntnisse sind fließend in Wort und Schrift",
+      "start": 2142,
+      "end": 2193
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "mobiles Arbeiten",
+      "start": 2405,
+      "end": 2421
+    }
+  ]
+}

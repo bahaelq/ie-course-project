@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1041",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Elektriker (m/w/d) Gebäudetechnik",
+      "start": 0,
+      "end": 33
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "VDE-Vorschriften",
+      "start": 466,
+      "end": 482
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Sorgfältigkeit",
+      "start": 499,
+      "end": 513
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Gebäudetechnik",
+      "start": 361,
+      "end": 398
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Elektriker oder Elektroniker",
+      "start": 289,
+      "end": 347
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 417,
+      "end": 439
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 147,
+      "end": 155
+    }
+  ]
+}

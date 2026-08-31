@@ -1,0 +1,25 @@
+{
+  "JOB_TITLE": [
+    "Sachbearbeiter Einkauf (m/w/d)"
+  ],
+  "HARD_SKILL": [
+    "SAP MM"
+  ],
+  "SOFT_SKILL": [
+    "Verhandlungsgeschick",
+    "Organisationsstärke"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Einkauf"
+  ],
+  "EDUCATION": [
+    "abgeschlossene kaufmännische Ausbildung"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse",
+    "Englischkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Maurer (m/w/d) Rohbau"
+  ],
+  "HARD_SKILL": [
+    "Mauerwerk"
+  ],
+  "SOFT_SKILL": [
+    "körperliche Belastbarkeit"
+  ],
+  "EXPERIENCE": [
+    "Berufserfahrung als Maurer"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Maurer:in"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

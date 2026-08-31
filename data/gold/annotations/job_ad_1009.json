@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1009",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Mitarbeiter Produktion (m/w/d)",
+      "start": 0,
+      "end": 30
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Voll- oder Teilzeit (jedoch Minimum 30 Wochenstunden)",
+      "start": 701,
+      "end": 754
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Bestückung von Leiterplatinen",
+      "start": 894,
+      "end": 923
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Wellen-Lötanlage",
+      "start": 947,
+      "end": 963
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrungen aus der Produktion mitbringst oder sogar Löten kannst (SMD und THT)",
+      "start": 1173,
+      "end": 1252
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Positiv denkst und bereit bist Neues zu lernen",
+      "start": 1330,
+      "end": 1376
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Kooperativ und konstruktiv mit Deinen Kolleg*innen umgehst",
+      "start": 1429,
+      "end": 1487
+    }
+  ]
+}

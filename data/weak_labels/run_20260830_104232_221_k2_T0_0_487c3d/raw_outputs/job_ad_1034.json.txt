@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Altenpfleger (m/w/d) Seniorenheim"
+  ],
+  "HARD_SKILL": [
+    "DAN"
+  ],
+  "SOFT_SKILL": [
+    "Geduld"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in der stationären Altenpflege"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Altenpfleger:in oder Pflegefachkraft"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse in Wort und Schrift"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

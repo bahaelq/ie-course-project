@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1044",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Dachdecker (m/w/d)",
+      "start": 0,
+      "end": 18
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Teamfähigkeit",
+      "start": 447,
+      "end": 460
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung als Dachdecker",
+      "start": 277,
+      "end": 307
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Dachdecker:in",
+      "start": 220,
+      "end": 263
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 340,
+      "end": 362
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 117,
+      "end": 125
+    }
+  ]
+}

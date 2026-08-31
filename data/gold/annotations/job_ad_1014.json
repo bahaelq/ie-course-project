@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1014",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Elektroniker (m/w/d) Energie- und Gebäudetechnik",
+      "start": 0,
+      "end": 48
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Prüf- und Messprotokolle",
+      "start": 206,
+      "end": 230
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "DDC-Steuerungen",
+      "start": 262,
+      "end": 277
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Elektroniker, Elektroniker für Energie- und Gebäudetechnik oder eine vergleichbare Qualifikation",
+      "start": 295,
+      "end": 421
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Erstellung von Schaltplänen",
+      "start": 444,
+      "end": 494
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse",
+      "start": 550,
+      "end": 577
+    }
+  ]
+}

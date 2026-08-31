@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Verwaltungsfachangestellter (m/w/d) Kommune"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Bürgerfreundlichkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in der öffentlichen Verwaltung"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Verwaltungsfachangestellte"
+  ],
+  "LANGUAGE": [
+    "sehr gute Deutschkenntnisse in Wort und Schrift"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

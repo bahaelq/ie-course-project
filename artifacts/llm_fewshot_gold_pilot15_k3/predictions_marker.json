@@ -1,0 +1,514 @@
+[
+  {
+    "id": "job_ad_1006",
+    "predictions": []
+  },
+  {
+    "id": "job_ad_1007",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "text": "Mitarbeiter/in Casting und Produktion",
+        "start": 0,
+        "end": 37,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1008",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "text": "Sales Manager (w/m/d)",
+        "start": 0,
+        "end": 21,
+        "status": "ok"
+      },
+      {
+        "type": "WORK_MODE",
+        "text": "Vollzeit",
+        "start": null,
+        "end": null,
+        "status": "ambiguous"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1009",
+    "predictions": [
+      {
+        "type": "EXPERIENCE",
+        "text": "Berufserfahrung im Vertrieb, insbesondere in der Neukundengewinnung",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Empathie und Abschlussstärke",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Ehrgeiz und Disziplin",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Erfolgsorientierung",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Eigenverantwortlichkeit",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Ausgeprägte Kommunikationsstärke",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "verhandlungssichere Deutschkenntnisse in Wort und Schrift",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "HARD_SKILL",
+        "text": "Salesforce",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "HARD_SKILL",
+        "text": "MS Office",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "WORK_MODE",
+        "text": "39 Std./Woche",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Teamspirit",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1010",
+    "predictions": [
+      {
+        "type": "SOFT_SKILL",
+        "text": "Flexibilität",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Teamgeist",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1011",
+    "predictions": [
+      {
+        "type": "EDUCATION",
+        "text": "Pflegefachkraft, Gesundheits- und Krankenpfleger:in, Altenpfleger:in oder Notfallsanitäter:in",
+        "start": 678,
+        "end": 771,
+        "status": "ok"
+      },
+      {
+        "type": "EXPERIENCE",
+        "text": "Berufserfahrung in der Betreuung von Notfallpatient:innen",
+        "start": 913,
+        "end": 970,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1012",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "text": "Erzieher (m/w/d) / verschiedene Standorte",
+        "start": null,
+        "end": null,
+        "status": "ambiguous"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "Deutschkenntnisse in Wort und Schrift",
+        "start": 968,
+        "end": 1005,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Eigeninitiative",
+        "start": 1216,
+        "end": 1231,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Einfühlungsvermögen",
+        "start": 1299,
+        "end": 1318,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Teamfähigkeit",
+        "start": 1320,
+        "end": 1333,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1013",
+    "predictions": []
+  },
+  {
+    "id": "job_ad_1014",
+    "predictions": [
+      {
+        "type": "EXPERIENCE",
+        "text": "Berufserfahrung in der Erstellung von Schaltplänen",
+        "start": 444,
+        "end": 494,
+        "status": "ok"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "sehr gute Deutschkenntnisse",
+        "start": 550,
+        "end": 577,
+        "status": "ok"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "Englischkenntnisse von Vorteil",
+        "start": 579,
+        "end": 609,
+        "status": "ok"
+      },
+      {
+        "type": "EXPERIENCE",
+        "text": "30 Tage Urlaub",
+        "start": 716,
+        "end": 730,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1015",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "text": "Verwaltungsfachkraft (m/w/d)",
+        "start": null,
+        "end": null,
+        "status": "ambiguous"
+      },
+      {
+        "type": "JOB_TITLE",
+        "text": "Verwaltungsfachkraft (m/w/d)",
+        "start": null,
+        "end": null,
+        "status": "ambiguous"
+      },
+      {
+        "type": "EDUCATION",
+        "text": "Abgeschlossene Ausbildung im kaufmännischen Bereich oder vergleichbarer Abschluss",
+        "start": 218,
+        "end": 299,
+        "status": "ok"
+      },
+      {
+        "type": "EXPERIENCE",
+        "text": "Berufserfahrung im Verwaltungsbereich",
+        "start": 301,
+        "end": 338,
+        "status": "ok"
+      },
+      {
+        "type": "HARD_SKILL",
+        "text": "Kenntnisse im Finanz- und Rechnungswesen",
+        "start": 340,
+        "end": 380,
+        "status": "ok"
+      },
+      {
+        "type": "HARD_SKILL",
+        "text": "Buchhaltung",
+        "start": 407,
+        "end": 418,
+        "status": "ok"
+      },
+      {
+        "type": "HARD_SKILL",
+        "text": "Sicherer Umgang mit DATEV",
+        "start": 420,
+        "end": 445,
+        "status": "ok"
+      },
+      {
+        "type": "HARD_SKILL",
+        "text": "MS-Office-Programmen",
+        "start": 454,
+        "end": 474,
+        "status": "ok"
+      },
+      {
+        "type": "EXPERIENCE",
+        "text": "Erfahrung im Umgang mit einer Datenbank (Bewohnerverwaltung, z.B. Vivendi NG)",
+        "start": 476,
+        "end": 553,
+        "status": "ok"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+        "start": 555,
+        "end": 602,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Professionelle Kommunikation",
+        "start": 604,
+        "end": 632,
+        "status": "ok"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "Ämtern und Kostenträgern",
+        "start": 659,
+        "end": 683,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Ausgeprägte Sozialkompetenz",
+        "start": 685,
+        "end": 712,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Team-, Organisations- und Kommunikationsstärke",
+        "start": 719,
+        "end": 765,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Empathischer Umgang mit Menschen in herausfordernden Lebenssituationen",
+        "start": 767,
+        "end": 837,
+        "status": "ok"
+      },
+      {
+        "type": "WORK_MODE",
+        "text": "Verkehrsanbindung",
+        "start": 855,
+        "end": 872,
+        "status": "ok"
+      },
+      {
+        "type": "EDUCATION",
+        "text": "Altersvorsorge",
+        "start": 887,
+        "end": 901,
+        "status": "ok"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "Zuschuss zum Deutschlandticket",
+        "start": 903,
+        "end": 933,
+        "status": "ok"
+      },
+      {
+        "type": "WORK_MODE",
+        "text": "Urlaub",
+        "start": 943,
+        "end": 949,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1016",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "text": "Verkäufer (m/w/d) Einzelhandel",
+        "start": 0,
+        "end": 30,
+        "status": "ok"
+      },
+      {
+        "type": "WORK_MODE",
+        "text": "Vollzeit",
+        "start": 127,
+        "end": 135,
+        "status": "ok"
+      },
+      {
+        "type": "EDUCATION",
+        "text": "abgeschlossene kaufmännische Berufsausbildung im Einzelhandel",
+        "start": 237,
+        "end": 298,
+        "status": "ok"
+      },
+      {
+        "type": "EXPERIENCE",
+        "text": "Berufserfahrung im Einzelhandel",
+        "start": 511,
+        "end": 542,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Kundenkontakt",
+        "start": 566,
+        "end": 579,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "teamfähig",
+        "start": 589,
+        "end": 598,
+        "status": "ok"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "gute Deutschkenntnisse",
+        "start": 617,
+        "end": 639,
+        "status": "ok"
+      },
+      {
+        "type": "EXPERIENCE",
+        "text": "unbefristetes Arbeitsverhältnis",
+        "start": 656,
+        "end": 687,
+        "status": "ok"
+      },
+      {
+        "type": "WORK_MODE",
+        "text": "flexible Arbeitszeiten",
+        "start": 689,
+        "end": 711,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Mitarbeiterrabatte",
+        "start": 713,
+        "end": 731,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Weiterbildungen",
+        "start": 736,
+        "end": 751,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1017",
+    "predictions": [
+      {
+        "type": "EDUCATION",
+        "text": "abgeschlossene Ausbildung in der Gesundheits- und Krankenpflege als Pflegefachkraft oder in der Altenpflege",
+        "start": 379,
+        "end": 486,
+        "status": "ok"
+      },
+      {
+        "type": "EXPERIENCE",
+        "text": "Berufserfahrung in der Intensivpflege",
+        "start": 509,
+        "end": 546,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "teamfähig",
+        "start": 556,
+        "end": 565,
+        "status": "ok"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "text": "Kommunikationsstärke",
+        "start": 584,
+        "end": 604,
+        "status": "ok"
+      },
+      {
+        "type": "LANGUAGE",
+        "text": "Deutschkenntnisse",
+        "start": 627,
+        "end": 644,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1018",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "text": "Sales Manager Außendienst in der Neukundenakquise (m/w/d)",
+        "start": null,
+        "end": null,
+        "status": "hallucinated"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1019",
+    "predictions": []
+  },
+  {
+    "id": "job_ad_1020",
+    "predictions": []
+  }
+]

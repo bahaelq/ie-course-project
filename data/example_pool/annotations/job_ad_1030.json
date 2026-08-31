@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1030",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Bauleiter Hochbau (m/w/d)",
+      "start": 0,
+      "end": 25
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 104,
+      "end": 112
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenes Studium des Bauingenieurwesens oder eine Ausbildung als Bautechniker mit Meisterqualifikation",
+      "start": 297,
+      "end": 406
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "mehrjährige Berufserfahrung in der Bauleitung von Hochbauprojekten",
+      "start": 420,
+      "end": 486
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "AutoCAD",
+      "start": 519,
+      "end": 526
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse in Wort und Schrift",
+      "start": 556,
+      "end": 598
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "durchsetzungsfähig",
+      "start": 608,
+      "end": 626
+    }
+  ]
+}

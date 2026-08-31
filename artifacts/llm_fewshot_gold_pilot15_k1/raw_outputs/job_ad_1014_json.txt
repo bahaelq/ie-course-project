@@ -1,0 +1,18 @@
+{
+  "JOB_TITLE": [
+    "Elektroniker (m/w/d)"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [],
+  "EXPERIENCE": [
+    "Berufserfahrung in der Erstellung von Schaltplänen"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Elektroniker, Elektroniker für Energie- und Gebäudetechnik oder eine vergleichbare Qualifikation"
+  ],
+  "LANGUAGE": [
+    "sehr gute Deutschkenntnisse",
+    "Englischkenntnisse von Vorteil"
+  ],
+  "WORK_MODE": []
+}

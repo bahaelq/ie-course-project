@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Lohnbuchhalter (m/w/d)."
+  ],
+  "HARD_SKILL": [
+    "DATEV Lohn und Gehalt"
+  ],
+  "SOFT_SKILL": [
+    "Genauigkeit und Zuverlässigkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung in der Lohnbuchhaltung"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Steuerfachangestellter mit Weiterbildung zum Lohnbuchhalter"
+  ],
+  "LANGUAGE": [
+    "sehr gute Deutschkenntnisse in Wort und Schrift"
+  ],
+  "WORK_MODE": [
+    "Teilzeit 25 Stunden pro Woche, unbefristet"
+  ]
+}

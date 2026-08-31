@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1027",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Mechatroniker (m/w/d) Instandhaltung",
+      "start": 0,
+      "end": 36
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 135,
+      "end": 143
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossene Ausbildung als Mechatroniker:in, Elektroniker:in oder eine vergleichbare Qualifikation",
+      "start": 325,
+      "end": 426
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung in der Instandhaltung von Industrieanlagen",
+      "start": 440,
+      "end": 498
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "SPS-Programmierung",
+      "start": 531,
+      "end": 549
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 573,
+      "end": 595
+    }
+  ]
+}

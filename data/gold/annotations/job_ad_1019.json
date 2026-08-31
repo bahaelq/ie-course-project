@@ -1,0 +1,53 @@
+{
+  "id": "job_ad_1019",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Python Developer (m/w/d).",
+      "start": 0,
+      "end": 25
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 99,
+      "end": 107
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "FastAPI",
+      "start": 197,
+      "end": 204
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Flask",
+      "start": 206,
+      "end": 211
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation",
+      "start": 337,
+      "end": 413
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "mehrjährige praktische Erfahrung in der Softwareentwicklung mit Python",
+      "start": 427,
+      "end": 497
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Englischkenntnisse",
+      "start": 628,
+      "end": 651
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "mobiles Arbeiten",
+      "start": 688,
+      "end": 704
+    }
+  ]
+}

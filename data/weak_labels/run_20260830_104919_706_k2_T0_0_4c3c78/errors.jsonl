@@ -1,0 +1,7 @@
+{"id": "job_ad_1031", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Gesundheits- und Krankenpfleger (m/w/d) Intensivstation -> first header 0", "attempt": 1, "timestamp": "2026-08-30T10:49:21.081471+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Softwareentwickler Python (m/w/d) Backend -> first header 0", "attempt": 1, "timestamp": "2026-08-30T10:49:22.854638+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:Python", "attempt": 1, "timestamp": "2026-08-30T10:49:22.855590+00:00"}
+{"id": "job_ad_1036", "stage": "parse", "error_type": "ambiguous", "message": "HARD_SKILL:FastAPI", "attempt": 1, "timestamp": "2026-08-30T10:49:22.856110+00:00"}
+{"id": "job_ad_1051", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Kommissionierer (m/w/d) Lager -> first header 0", "attempt": 1, "timestamp": "2026-08-30T10:49:24.384030+00:00"}
+{"id": "job_ad_1066", "stage": "parse", "error_type": "disambiguated_header", "message": "JOB_TITLE:Erzieher (m/w/d) Kindergarten -> first header 0", "attempt": 1, "timestamp": "2026-08-30T10:49:26.198701+00:00"}
+{"id": "job_ad_1066", "stage": "validation", "error_type": "validation_failed", "message": "WORK_MODE must not be contract type 'Teilzeit 30 Stunden pro Woche, unbefristet' at 6", "attempt": 1, "timestamp": "2026-08-30T10:49:26.201027+00:00"}

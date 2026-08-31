@@ -1,0 +1,47 @@
+{
+  "id": "job_ad_1035",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Hebamme (m/w/d) Kreißsaal",
+      "start": 0,
+      "end": 25
+    },
+    {
+      "type": "HARD_SKILL",
+      "text": "Geburtshilfe",
+      "start": 484,
+      "end": 496
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "Einfühlungsvermögen",
+      "start": 537,
+      "end": 556
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Berufserfahrung im Kreißsaal",
+      "start": 349,
+      "end": 377
+    },
+    {
+      "type": "EDUCATION",
+      "text": "abgeschlossenes Studium der Hebammenwissenschaft oder Ausbildung als Hebamme",
+      "start": 259,
+      "end": 335
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "sehr gute Deutschkenntnisse in Wort und Schrift",
+      "start": 410,
+      "end": 457
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 131,
+      "end": 139
+    }
+  ]
+}

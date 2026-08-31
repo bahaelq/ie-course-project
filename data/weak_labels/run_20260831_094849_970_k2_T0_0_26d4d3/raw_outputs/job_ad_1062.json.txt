@@ -1,0 +1,21 @@
+{
+  "JOB_TITLE": [
+    "Einzelhandelskaufmann (m/w/d)"
+  ],
+  "HARD_SKILL": [],
+  "SOFT_SKILL": [
+    "Teamfähigkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Lebensmitteleinzelhandel"
+  ],
+  "EDUCATION": [
+    "abgeschlossene Ausbildung als Kaufmann im Einzelhandel"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

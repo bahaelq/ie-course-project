@@ -1,0 +1,9 @@
+{
+  "JOB_TITLE": ["Verwaltungsfachkraft (m/w/d)"],
+  "HARD_SKILL": ["DATEV", "MS-Office-Programmen", "Vivendi NG"],
+  "SOFT_SKILL": ["Professionelle Kommunikation", "souveräner Umgang mit Ämtern und Kostenträgern", "Ausgeprägte Sozialkompetenz", "Team-, Organisations- und Kommunikationsstärke", "empathischer Umgang mit Menschen in herausfordernden Lebenssituationen"],
+  "EXPERIENCE": ["Berufserfahrung im Verwaltungsbereich"],
+  "EDUCATION": ["Abgeschlossene Ausbildung im kaufmännischen Bereich oder vergleichbarer Abschluss"],
+  "LANGUAGE": ["Deutschkenntnisse"],
+  "WORK_MODE": ["Teilzeit unbefristet"]
+}

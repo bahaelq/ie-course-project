@@ -1,0 +1,23 @@
+{
+  "JOB_TITLE": [
+    "Kommissionierer (m/w/d) Lager"
+  ],
+  "HARD_SKILL": [
+    "Scannerbedienung"
+  ],
+  "SOFT_SKILL": [
+    "Zuverlässigkeit"
+  ],
+  "EXPERIENCE": [
+    "Erfahrung im Lager"
+  ],
+  "EDUCATION": [
+    "keine abgeschlossene Ausbildung erforderlich"
+  ],
+  "LANGUAGE": [
+    "gute Deutschkenntnisse"
+  ],
+  "WORK_MODE": [
+    "Vollzeit"
+  ]
+}

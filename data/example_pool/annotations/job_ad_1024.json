@@ -1,0 +1,41 @@
+{
+  "id": "job_ad_1024",
+  "entities": [
+    {
+      "type": "JOB_TITLE",
+      "text": "Berufskraftfahrer (m/w/d) Klasse CE",
+      "start": 0,
+      "end": 35
+    },
+    {
+      "type": "WORK_MODE",
+      "text": "Vollzeit",
+      "start": 129,
+      "end": 137
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Fahrpraxis im Güterverkehr",
+      "start": 490,
+      "end": 516
+    },
+    {
+      "type": "EXPERIENCE",
+      "text": "Erfahrung in der Ladungssicherung",
+      "start": 521,
+      "end": 554
+    },
+    {
+      "type": "LANGUAGE",
+      "text": "gute Deutschkenntnisse",
+      "start": 573,
+      "end": 595
+    },
+    {
+      "type": "SOFT_SKILL",
+      "text": "zuverlässig",
+      "start": 605,
+      "end": 616
+    }
+  ]
+}
