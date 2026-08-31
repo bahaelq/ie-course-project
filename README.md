@@ -152,6 +152,89 @@ uv sync
 
 ---
 
+## 🖥️ Demo UI — Job Information Extractor
+
+Professionelle Demo-Oberfläche für die bestehende Information-Extraction-Pipeline (LLM, KISSKI).
+
+**Funktion:** Stellenanzeige einfügen → *Analysieren* → 7 Entitätstypen als Chips + JSON + markierter Text.
+
+Die UI nutzt ausschließlich die vorhandene Pipeline (`src/ie_course/kisski_client.py`,
+`scripts/evaluate_llm_baseline.py` – strict JSON-Prompt, `src/ie_course/retrieval.py`,
+`src/ie_course/bio.py`). Keine wissenschaftliche Pipeline wurde verändert; die UI ist eine reine Präsentationsschicht.
+
+### Start (einfach, ohne neue Abhängigkeiten)
+
+```bash
+# 1. Umgebung aktivieren (oder uv run verwenden)
+source .venv/bin/activate
+# Alternativ: .venv/bin/python verwenden
+
+# 2. API-Konfiguration setzen (siehe .env.example)
+cp .env.example .env
+# → KISSKI_API_KEY, KISSKI_BASE_URL, KISSKI_MODEL eintragen
+# .env wird nie committet (in .gitignore)
+
+# 3. UI starten (Standard: http://127.0.0.1:8000)
+.venv/bin/python demo/app.py
+# oder mit uv:
+# uv run python demo/app.py
+# eigener Port:
+# .venv/bin/python demo/app.py --port 8501 --host 127.0.0.1
+```
+
+Nach dem Start erscheint ein Link in der Konsole. Browser öffnen.
+
+### Bedienung
+
+1. Link öffnen (z. B. `http://127.0.0.1:8000`)
+2. **Beispiel** als Karte wählen (Software, Pflege, Kaufmännisch) – oder eigene Anzeige einfügen:
+   - **Datei hochladen:** `Datei hierher ziehen oder auswählen` → PDF/TXT/DOCX (max. 8 MB, Drag & Drop) → Text wird extrahiert und erscheint im Editor
+   - **Text einfügen:** direkt in den Editor tippen/einfügen (`Einfügen`/`⌘V`)
+3. **Stellenanzeige analysieren** drücken (ehrlicher Loading-State *Stellenanzeige wird analysiert …*, Editor deaktiviert)
+4. Dashboard erscheint unter dem Editor:
+   - **7 Entity-Cards** mit deutscher Beschreibung, englischem Key, Count und Chips (leere Typen: *Keine Entität erkannt*)
+   - **Markierter Originaltext** als zentrales Highlight – exakte `start`/`end`-Spans, dezente Hervorhebungen, interaktive Legende (Typen ein-/ausblenden), *Alle ausblenden*, *Text kopieren*
+   - **Technische Ansicht** (kollabierbar) → unverändertes Pipeline-JSON, `Kopieren` + `Download`, validiert
+5. Bei Bedarf *Leeren* oder anderes Beispiel laden. Hochgeladene Datei kann via *Entfernen* ausgeblendet werden – Text bleibt editierbar.
+
+Hinweise:
+- Leere/zu kurze (<20) / zu lange (>20k) Eingaben → verständliche Fehlermeldung, kein Traceback.
+- **Datei-Upload:** nur `.txt`, `.pdf`, `.docx` (max. 8 MB), keine dauerhafte Speicherung, kein externer Versand vor *Analysieren*, Dateiname/Größe werden angezeigt, Fehler wie *„Aus dieser PDF konnte kein Text extrahiert werden“* als Banner.
+- Fehlende `.env`-Konfiguration → 503-Banner, kein Secret im Frontend.
+- API-Fehler (401/429/500/Timeout) abgefangen, `429/500` mit automatischem Retry (exponentielles Backoff), sonst Banner.
+- Halluzinierte/ambiguous Spans bleiben im JSON sichtbar, werden aber nicht markiert – keine falschen Markierungen.
+
+### Architektur (kurz)
+
+```
+demo/
+  app.py            # ThreadingHTTPServer (stdlib), dient static/ + POST /api/extract + POST /api/upload
+  extractor.py      # Wrapper um ie_course.kisski_client + strict Prompt + Normalisierung (retry)
+  file_extract.py   # UX-Erweiterung: TXT/PDF/DOCX → Text (pypdf, python-docx, bereits in pyproject)
+  examples.py       # 3 synthetische, PII-freie Beispiel-Anzeigen
+  static/
+    index.html      # Premium SaaS – Hero, Example-Cards, Upload-Zone (Drag&Drop), Editor, Dashboard
+    style.css       # Ruhig/seriös: viel Whitespace, Karten, subtile Shadows, gute Typografie, Upload-Styles
+    app.js          # Fetch, Upload, States, Entity-Cards, Highlighting, Legende, Copy/Download, A11y
+```
+
+Keine neuen Pflicht-Abhängigkeiten – `pypdf` und `python-docx` waren bereits in `pyproject.toml`. `demo/file_extract.py` und `demo/app.py:/api/upload` sind reine Input-Erweiterungen, keine zweite NLP-Pipeline.
+
+### Fehlerbehandlung & Secrets
+
+- `.env` nie committen, nie im Frontend oder Logs ausgeben. Upload-Dateien nie speichern, nie loggen.
+- Endpunkte: `GET /health`, `GET /api/config` (ohne Key), `GET /api/examples`, `POST /api/extract`, `POST /api/upload` (multipart).
+- Input-Guards: leer, zu kurz, zu lang (>20k), ungültiges JSON, Timeouts. Upload-Guards: ungültiger Typ, zu groß (>8 MB), leer, kein Text, beschädigt.
+
+### Tests
+
+```bash
+.venv/bin/python -m pytest -q --no-cov
+# erwartet: 210 passed (183 original + 10 Demo-Parsing + 17 Upload)
+```
+
+---
+
 ## 🐛 Troubleshooting
 
 | Problem | Fix |
@@ -161,4 +244,6 @@ uv sync
 | Jupyter kernel issues | `uv run python -m ipykernel install --user` |
 | spaCy model missing | `uv run python scripts/download_models.py spacy` |
 | Slow `uv sync` on first run | Normal — it's downloading ~2 GB of ML libraries |
+| Demo zeigt „API nicht konfiguriert“ | `.env` nach `.env.example` einrichten und Server neu starten |
+| Demo 429/500 | KISSKI ist temporär überlastet – 1–2× erneut *Analysieren* drücken (Auto-Retry) |
 
