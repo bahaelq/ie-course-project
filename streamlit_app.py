@@ -15,6 +15,7 @@ import streamlit as st
 from ie_course.examples import EXAMPLES
 from ie_course.extractor import extract_job_ad, get_config_status, match_cv_to_job
 from ie_course.file_extract import extract_text_from_upload
+from ie_course.job_url import fetch_text
 from ie_course.strict_json import ALLOWED_TYPES
 
 LABELS = {
@@ -107,6 +108,24 @@ def use_upload() -> None:
         st.session_state.result_text = None
 
 
+def use_url() -> None:
+    url = st.session_state.get("job_url", "").strip()
+    if not url:
+        return
+    try:
+        text = fetch_text(url)
+    except Exception as exc:
+        st.session_state.url_error = f"Could not load the page: {exc}"
+        return
+    if len(text) < 200:
+        st.session_state.url_error = "The page has too little text (it may need JavaScript or a login). Paste the text instead."
+        return
+    st.session_state.url_error = None
+    st.session_state.ad_text = text
+    st.session_state.result = None
+    st.session_state.result_text = None
+
+
 def main() -> None:
     st.set_page_config(page_title="Analyze Job Ads", page_icon="🔎", layout="wide")
     for key, initial in (
@@ -116,6 +135,7 @@ def main() -> None:
         ("upload_key", 0),
         ("upload_info", None),
         ("upload_error", None),
+        ("url_error", None),
         ("match_result", None),
         ("match_error", None),
     ):
@@ -169,6 +189,12 @@ def main() -> None:
     elif st.session_state.upload_info:
         meta = st.session_state.upload_info
         st.caption(f"Loaded: {meta['filename']} ({meta['size_human']})")
+
+    url_col, url_btn = st.columns([4, 1], vertical_alignment="bottom")
+    url_col.text_input("Or load a job ad from a link", key="job_url", placeholder="https://example.com/jobs/123")
+    url_btn.button("Load from link", use_container_width=True, on_click=use_url)
+    if st.session_state.url_error:
+        st.error(st.session_state.url_error)
 
     st.text_area(
         "Job Ad",

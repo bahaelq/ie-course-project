@@ -2,7 +2,7 @@
 
 This repository contains a small Python information-extraction system for German
 job advertisements. It provides a Streamlit app, reusable extraction modules,
-annotated example data, and an evaluation script for a local GBERT
+annotated example data, and scripts to train and evaluate a local GBERT
 token-classification model.
 
 The main use case is to turn unstructured job ads into structured entities such
@@ -14,7 +14,8 @@ languages, and work mode.
 The project supports two extraction paths:
 
 1. **Streamlit job-ad analyzer**
-   - Accepts pasted text or uploaded TXT, PDF, and DOCX files.
+   - Accepts pasted text, uploaded TXT, PDF, and DOCX files, or a link to a
+     public job posting.
    - Optionally accepts a CV upload and asks the configured language model whether
      the CV is a good fit for the job.
    - Uses a local GBERT model, when available, to propose entity spans.
@@ -23,7 +24,8 @@ The project supports two extraction paths:
    - Displays grouped entities, highlighted source text, diagnostics, and a JSON
      download.
 
-2. **Local GBERT evaluation**
+2. **Local GBERT training and evaluation**
+   - Fine-tunes `deepset/gbert-base` with `scripts/train_gbert.py`.
    - Loads a fine-tuned German BERT token-classification model from
      `artifacts/gbert_model/`.
    - Runs entity prediction over an annotated data split.
@@ -56,10 +58,11 @@ The allowed entity types are:
 |   |-- gbert_data.py                 # Loading annotated data splits
 |   |-- metrics.py                    # Entity-level evaluation metrics
 |   |-- examples.py                   # Built-in UI examples
-|   |-- job_url.py                    # CLI extractor for job postings at URLs
-|   `-- ocr.py                        # OCR helper code
-|-- scripts/experiments/
-|   `-- evaluate_gbert.py             # Evaluate local GBERT predictions
+|   `-- job_url.py                    # Downloads the text of a job posting from a URL
+|-- scripts/
+|   |-- train_gbert.py                # Fine-tune GBERT and save it to artifacts/gbert_model/
+|   `-- experiments/
+|       `-- evaluate_gbert.py         # Evaluate local GBERT predictions
 |-- data/
 |   |-- examples/                     # Small built-in examples and gold annotations
 |   |-- smoke_test/                   # Tiny test split
@@ -93,7 +96,7 @@ This creates `.venv/` and installs the dependencies from `pyproject.toml` and
 
 ## API Configuration
 
-The Streamlit app and URL extractor need an OpenAI-compatible chat API. Copy the
+The Streamlit app needs an OpenAI-compatible chat API. Copy the
 template and fill in one provider:
 
 ```bash
@@ -132,6 +135,7 @@ In the app you can:
 - choose one of the built-in sample job ads,
 - paste a job ad directly,
 - upload a TXT, PDF, or DOCX job ad up to 8 MB,
+- paste a link to a public job posting and load its text with **Load from link**,
 - run extraction into the seven supported entity types,
 - inspect highlighted spans and the raw JSON response,
 - download the JSON result,
@@ -140,6 +144,19 @@ In the app you can:
 If `artifacts/gbert_model/model.safetensors` exists, the app uses the local
 GBERT model to propose candidate spans before the LLM call. If the model is not
 present, the app still works using only the configured LLM.
+
+## Train the Local GBERT Model
+
+The model weights are not stored in git, so train the model once before using
+it (a GPU is used automatically if available; the first run downloads
+`deepset/gbert-base`):
+
+```bash
+uv run python scripts/train_gbert.py
+```
+
+This fine-tunes GBERT on `data/example_pool/` and writes the model, including
+`model.safetensors`, to `artifacts/gbert_model/`.
 
 ## Evaluate the Local GBERT Model
 
@@ -163,18 +180,6 @@ The script writes:
 
 Matching is entity-level and offset-based: a prediction is correct only when
 document id, entity type, start offset, and end offset match the annotation.
-
-## Extract a Job Posting from a URL
-
-The URL helper downloads a public page, removes scripts/styles/navigation/footer
-content, truncates the visible text, and asks the configured LLM for structured
-job fields:
-
-```bash
-uv run python -m ie_course.job_url https://example.com/jobs/123
-```
-
-This command requires a configured `.env`.
 
 ## Data
 
@@ -200,6 +205,9 @@ data/<split>/
 
 - The Streamlit app sends job-ad text to the configured LLM only after clicking
   **Analyze Job Ad**.
+- **Load from link** downloads the page from the machine running the app. Only
+  public `http(s)` addresses are allowed, and pages that need JavaScript or a
+  login (for example LinkedIn) give little or no text; paste the text instead.
 - Uploaded files are read in memory by the app; they are not saved permanently by
   the upload workflow.
 - Local GBERT inference is offline once `artifacts/gbert_model/` exists.
@@ -216,5 +224,6 @@ data/<split>/
 | Missing API configuration in Streamlit | Copy `.env.example` to `.env` and set the provider, key, and model. |
 | API errors such as 401/403 | Check the configured API key and model name. |
 | API error 429 | Wait briefly and retry; the provider rate limit was reached. |
-| No GBERT model found | The app can still run with the LLM only, or place model files in `artifacts/gbert_model/`. |
+| No GBERT model found | Run `uv run python scripts/train_gbert.py`. Without it the app still runs with the LLM only. |
+| "Could not load the page" or "too little text" | The site blocks downloads or needs JavaScript/login. Copy the job text and paste it into the Job Ad box. |
 | PDF upload has no text | Use a text-based PDF, TXT, or DOCX file, or paste the text manually. |

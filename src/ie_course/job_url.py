@@ -3,9 +3,12 @@
 Usage: uv run python -m ie_course.job_url https://example.com/jobs/123
 """
 
+import ipaddress
 import json
+import socket
 import sys
 import urllib.request
+from urllib.parse import urlparse
 
 from lxml import html as lxml_html
 
@@ -20,9 +23,23 @@ Text:
 {text}"""
 
 
+def check_public_url(url: str) -> None:
+    """Raise ValueError unless the URL is http(s) and points to a public host."""
+    parsed = urlparse(url)
+    if parsed.scheme not in ("http", "https") or not parsed.hostname:
+        raise ValueError("Please enter a valid http(s) link.")
+    try:
+        addresses = {info[4][0] for info in socket.getaddrinfo(parsed.hostname, None)}
+    except socket.gaierror:
+        raise ValueError("Could not resolve this address.") from None
+    if not all(ipaddress.ip_address(a).is_global for a in addresses):
+        raise ValueError("Only public web addresses are allowed.")
+
+
 def fetch_text(url: str) -> str:
+    check_public_url(url)
     request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    page = urllib.request.urlopen(request, timeout=20).read()
+    page = urllib.request.urlopen(request, timeout=20).read(3_000_000)
     tree = lxml_html.fromstring(page)
     for tag in tree.xpath("//script | //style | //nav | //footer"):
         tag.drop_tree()
