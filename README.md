@@ -1,249 +1,220 @@
-# Information Extraction in Python 🐍
+# IE Course Project: Job Ad Information Extraction
 
-Course materials for the **Information Extraction in Python** seminar.
+This repository contains a small Python information-extraction system for German
+job advertisements. It provides a Streamlit app, reusable extraction modules,
+annotated example data, and an evaluation script for a local GBERT
+token-classification model.
 
----
+The main use case is to turn unstructured job ads into structured entities such
+as job titles, hard skills, soft skills, experience requirements, education,
+languages, and work mode.
 
-## 🛠️ Setup (do this once)
+## What the Code Does
 
-### 1. Install `uv`
+The project supports two extraction paths:
 
-`uv` is a fast Python package manager. Install it with one command:
+1. **Streamlit job-ad analyzer**
+   - Accepts pasted text or uploaded TXT, PDF, and DOCX files.
+   - Optionally accepts a CV upload and asks the configured language model whether
+     the CV is a good fit for the job.
+   - Uses a local GBERT model, when available, to propose entity spans.
+   - Sends the job ad and candidates to an OpenAI-compatible chat API for strict
+     JSON structuring.
+   - Displays grouped entities, highlighted source text, diagnostics, and a JSON
+     download.
 
-**macOS / Linux:**
+2. **Local GBERT evaluation**
+   - Loads a fine-tuned German BERT token-classification model from
+     `artifacts/gbert_model/`.
+   - Runs entity prediction over an annotated data split.
+   - Writes predictions and precision/recall/F1 metrics to `artifacts/`.
+
+The allowed entity types are:
+
+- `JOB_TITLE`
+- `HARD_SKILL`
+- `SOFT_SKILL`
+- `EXPERIENCE`
+- `EDUCATION`
+- `LANGUAGE`
+- `WORK_MODE`
+
+## Project Structure
+
+```text
+.
+|-- streamlit_app.py                  # Web UI for job-ad extraction and CV matching
+|-- pyproject.toml                    # Python dependencies and project metadata
+|-- uv.lock                           # Locked dependency versions for uv
+|-- .env.example                      # API configuration template
+|-- src/ie_course/
+|   |-- extractor.py                  # Main extraction and CV-matching workflow
+|   |-- strict_json.py                # Prompt/schema rules and span normalization
+|   |-- llm_client.py                 # OpenAI-compatible API configuration/client helpers
+|   |-- file_extract.py               # TXT/PDF/DOCX text extraction for uploads
+|   |-- gbert_infer.py                # Local GBERT inference
+|   |-- gbert_data.py                 # Loading annotated data splits
+|   |-- metrics.py                    # Entity-level evaluation metrics
+|   |-- examples.py                   # Built-in UI examples
+|   |-- job_url.py                    # CLI extractor for job postings at URLs
+|   `-- ocr.py                        # OCR helper code
+|-- scripts/experiments/
+|   `-- evaluate_gbert.py             # Evaluate local GBERT predictions
+|-- data/
+|   |-- examples/                     # Small built-in examples and gold annotations
+|   |-- smoke_test/                   # Tiny test split
+|   |-- example_pool/                 # Manually annotated validation/few-shot pool
+|   `-- gold/                         # Held-out manually annotated evaluation set
+|-- exercises/
+|   `-- 01_exercise.ipynb             # Course exercise notebook
+`-- artifacts/
+    |-- gbert_model/                  # Local fine-tuned model files
+    `-- gbert_eval_gold/              # Existing evaluation outputs
+```
+
+## Setup
+
+The project uses Python 3.11+ and `uv`.
+
+Install `uv` if needed:
+
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-**Windows (PowerShell):**
-```powershell
-powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-```
-
-Restart your terminal after installing, then verify:
-```bash
-uv --version
-```
-
----
-
-### 2. Clone the repository
-
-```bash
-git clone https://github.com/LTluttmann/ie_course_material.git
-cd ie_course_material
-```
-
----
-
-### 3. Create the environment & install dependencies
+Install dependencies:
 
 ```bash
 uv sync
 ```
 
-This will:
-- Create a virtual environment in `.venv/`
-- Install all dependencies from `pyproject.toml`
-- Install dev tools (pytest, ruff, etc.)
+This creates `.venv/` and installs the dependencies from `pyproject.toml` and
+`uv.lock`.
 
-No need to manually `pip install` anything.
+## API Configuration
 
----
-
-### 4. Download required NLP models
-
-Run the setup script to download spaCy models and NLTK data:
+The Streamlit app and URL extractor need an OpenAI-compatible chat API. Copy the
+template and fill in one provider:
 
 ```bash
-uv run python scripts/download_models.py
-```
-
----
-
-### 5. Activate the environment (optional)
-
-`uv run` handles this automatically, but if you want a traditional shell activation:
-
-**macOS / Linux:**
-```bash
-source .venv/bin/activate
-```
-
-**Windows:**
-```powershell
-.venv\Scripts\activate
-```
-
----
-
-## 📓 Running Notebooks
-
-```bash
-uv run jupyter lab
-```
-
-Notebooks are in the `notebooks/` directory.
-
----
-
-## ✅ Verify your setup
-
-```bash
-uv run python scripts/check_setup.py
-```
-
-All checks should show ✅.
-
----
-
-## 🗂️ Repository Structure
-
-```
-ie_course_material/
-├── pyproject.toml          # Dependencies & project config
-├── notebooks/              # Lecture notebooks (01_, 02_, ...)
-├── exercises/              # Starter code for exercises
-├── solutions/              # Exercise solutions (released weekly)
-├── src/
-│   └── ie_course/          # Shared helper library
-│       ├── __init__.py
-│       └── utils.py
-├── data/                   # data we might use
-└── scripts/
-    ├── check_setup.py      # Environment verification
-    └── download_models.py  # Model downloader
-```
-
----
-
-## 🔑 API Keys (OPTIONAL)
-NOTE: we are working on a solution to use LLMs running on universiy hardware.
-
-Some exercises use LLM APIs. Set your keys as environment variables:
-
-
-```bash
-# macOS / Linux — add to ~/.zshrc or ~/.bashrc
-export OPENAI_API_KEY="sk-..."
-export ANTHROPIC_API_KEY="sk-ant-..."
-```
-
-```powershell
-# Windows PowerShell
-$env:OPENAI_API_KEY = "sk-..."
-$env:ANTHROPIC_API_KEY = "sk-ant-..."
-```
-
-Or create a `.env` file in the project root (already in `.gitignore`):
-```
-OPENAI_API_KEY=sk-...
-ANTHROPIC_API_KEY=sk-ant-...
-```
-
----
-
-## 🔄 Updating dependencies
-
-If new packages are added during the course, just run:
-```bash
-uv sync
-```
-
----
-
-## 🖥️ Demo UI — Job Information Extractor
-
-Professionelle Demo-Oberfläche für die bestehende Information-Extraction-Pipeline (LLM, KISSKI).
-
-**Funktion:** Stellenanzeige einfügen → *Analysieren* → 7 Entitätstypen als Chips + JSON + markierter Text.
-
-Die UI nutzt ausschließlich die vorhandene Pipeline (`src/ie_course/kisski_client.py`,
-`scripts/evaluate_llm_baseline.py` – strict JSON-Prompt, `src/ie_course/retrieval.py`,
-`src/ie_course/bio.py`). Keine wissenschaftliche Pipeline wurde verändert; die UI ist eine reine Präsentationsschicht.
-
-### Start (einfach, ohne neue Abhängigkeiten)
-
-```bash
-# 1. Umgebung aktivieren (oder uv run verwenden)
-source .venv/bin/activate
-# Alternativ: .venv/bin/python verwenden
-
-# 2. API-Konfiguration setzen (siehe .env.example)
 cp .env.example .env
-# → KISSKI_API_KEY, KISSKI_BASE_URL, KISSKI_MODEL eintragen
-# .env wird nie committet (in .gitignore)
-
-# 3. UI starten (Standard: http://127.0.0.1:8000)
-.venv/bin/python demo/app.py
-# oder mit uv:
-# uv run python demo/app.py
-# eigener Port:
-# .venv/bin/python demo/app.py --port 8501 --host 127.0.0.1
 ```
 
-Nach dem Start erscheint ein Link in der Konsole. Browser öffnen.
+For AcademicCloud Chat AI:
 
-### Bedienung
-
-1. Link öffnen (z. B. `http://127.0.0.1:8000`)
-2. **Beispiel** als Karte wählen (Software, Pflege, Kaufmännisch) – oder eigene Anzeige einfügen:
-   - **Datei hochladen:** `Datei hierher ziehen oder auswählen` → PDF/TXT/DOCX (max. 8 MB, Drag & Drop) → Text wird extrahiert und erscheint im Editor
-   - **Text einfügen:** direkt in den Editor tippen/einfügen (`Einfügen`/`⌘V`)
-3. **Stellenanzeige analysieren** drücken (ehrlicher Loading-State *Stellenanzeige wird analysiert …*, Editor deaktiviert)
-4. Dashboard erscheint unter dem Editor:
-   - **7 Entity-Cards** mit deutscher Beschreibung, englischem Key, Count und Chips (leere Typen: *Keine Entität erkannt*)
-   - **Markierter Originaltext** als zentrales Highlight – exakte `start`/`end`-Spans, dezente Hervorhebungen, interaktive Legende (Typen ein-/ausblenden), *Alle ausblenden*, *Text kopieren*
-   - **Technische Ansicht** (kollabierbar) → unverändertes Pipeline-JSON, `Kopieren` + `Download`, validiert
-5. Bei Bedarf *Leeren* oder anderes Beispiel laden. Hochgeladene Datei kann via *Entfernen* ausgeblendet werden – Text bleibt editierbar.
-
-Hinweise:
-- Leere/zu kurze (<20) / zu lange (>20k) Eingaben → verständliche Fehlermeldung, kein Traceback.
-- **Datei-Upload:** nur `.txt`, `.pdf`, `.docx` (max. 8 MB), keine dauerhafte Speicherung, kein externer Versand vor *Analysieren*, Dateiname/Größe werden angezeigt, Fehler wie *„Aus dieser PDF konnte kein Text extrahiert werden“* als Banner.
-- Fehlende `.env`-Konfiguration → 503-Banner, kein Secret im Frontend.
-- API-Fehler (401/429/500/Timeout) abgefangen, `429/500` mit automatischem Retry (exponentielles Backoff), sonst Banner.
-- Halluzinierte/ambiguous Spans bleiben im JSON sichtbar, werden aber nicht markiert – keine falschen Markierungen.
-
-### Architektur (kurz)
-
-```
-demo/
-  app.py            # ThreadingHTTPServer (stdlib), dient static/ + POST /api/extract + POST /api/upload
-  extractor.py      # Wrapper um ie_course.kisski_client + strict Prompt + Normalisierung (retry)
-  file_extract.py   # UX-Erweiterung: TXT/PDF/DOCX → Text (pypdf, python-docx, bereits in pyproject)
-  examples.py       # 3 synthetische, PII-freie Beispiel-Anzeigen
-  static/
-    index.html      # Premium SaaS – Hero, Example-Cards, Upload-Zone (Drag&Drop), Editor, Dashboard
-    style.css       # Ruhig/seriös: viel Whitespace, Karten, subtile Shadows, gute Typografie, Upload-Styles
-    app.js          # Fetch, Upload, States, Entity-Cards, Highlighting, Legende, Copy/Download, A11y
+```dotenv
+AI_PROVIDER=academiccloud
+CHAT_AI_API_KEY=your-chat-ai-api-key
+CHAT_AI_MODEL=qwen3.5-122b-a10b
 ```
 
-Keine neuen Pflicht-Abhängigkeiten – `pypdf` und `python-docx` waren bereits in `pyproject.toml`. `demo/file_extract.py` und `demo/app.py:/api/upload` sind reine Input-Erweiterungen, keine zweite NLP-Pipeline.
+For OpenAI:
 
-### Fehlerbehandlung & Secrets
+```dotenv
+AI_PROVIDER=openai
+OPENAI_API_KEY=your-openai-api-key
+OPENAI_MODEL=gpt-4o-mini
+```
 
-- `.env` nie committen, nie im Frontend oder Logs ausgeben. Upload-Dateien nie speichern, nie loggen.
-- Endpunkte: `GET /health`, `GET /api/config` (ohne Key), `GET /api/examples`, `POST /api/extract`, `POST /api/upload` (multipart).
-- Input-Guards: leer, zu kurz, zu lang (>20k), ungültiges JSON, Timeouts. Upload-Guards: ungültiger Typ, zu groß (>8 MB), leer, kein Text, beschädigt.
+Environment variables override values in `.env`. API keys are read locally and
+are not displayed by the app.
 
-### Tests
+## Run the Streamlit App
 
 ```bash
-.venv/bin/python -m pytest -q --no-cov
-# erwartet: 210 passed (183 original + 10 Demo-Parsing + 17 Upload)
+uv run streamlit run streamlit_app.py
 ```
 
----
+Streamlit prints a local URL, usually `http://localhost:8501`.
 
-## 🐛 Troubleshooting
+In the app you can:
+
+- choose one of the built-in sample job ads,
+- paste a job ad directly,
+- upload a TXT, PDF, or DOCX job ad up to 8 MB,
+- run extraction into the seven supported entity types,
+- inspect highlighted spans and the raw JSON response,
+- download the JSON result,
+- optionally upload a CV and get a short fit assessment.
+
+If `artifacts/gbert_model/model.safetensors` exists, the app uses the local
+GBERT model to propose candidate spans before the LLM call. If the model is not
+present, the app still works using only the configured LLM.
+
+## Evaluate the Local GBERT Model
+
+Run evaluation on the held-out gold split:
+
+```bash
+uv run python scripts/experiments/evaluate_gbert.py --model-dir artifacts/gbert_model --split gold
+```
+
+Useful alternatives:
+
+```bash
+uv run python scripts/experiments/evaluate_gbert.py --split example_pool
+uv run python scripts/experiments/evaluate_gbert.py --split smoke_test
+```
+
+The script writes:
+
+- `artifacts/gbert_eval_<split>/predictions.json`
+- `artifacts/gbert_eval_<split>/metrics.json`
+
+Matching is entity-level and offset-based: a prediction is correct only when
+document id, entity type, start offset, and end offset match the annotation.
+
+## Extract a Job Posting from a URL
+
+The URL helper downloads a public page, removes scripts/styles/navigation/footer
+content, truncates the visible text, and asks the configured LLM for structured
+job fields:
+
+```bash
+uv run python -m ie_course.job_url https://example.com/jobs/123
+```
+
+This command requires a configured `.env`.
+
+## Data
+
+The repository contains several local data splits:
+
+- `data/examples/`: small examples used by the UI and course material.
+- `data/smoke_test/`: tiny annotated split for quick checks.
+- `data/example_pool/`: manually annotated validation/few-shot pool.
+- `data/gold/`: held-out annotated evaluation set.
+
+Annotated splits follow the same structure:
+
+```text
+data/<split>/
+|-- texts/
+|   `-- job_ad_XXXX.txt
+|-- annotations/
+|   `-- job_ad_XXXX.json
+`-- metadata.jsonl
+```
+
+## Notes and Limitations
+
+- The Streamlit app sends job-ad text to the configured LLM only after clicking
+  **Analyze Job Ad**.
+- Uploaded files are read in memory by the app; they are not saved permanently by
+  the upload workflow.
+- Local GBERT inference is offline once `artifacts/gbert_model/` exists.
+- The LLM is instructed to copy exact spans from the job ad. Values that cannot
+  be found in the original text, or that occur ambiguously, are counted in the
+  technical diagnostics and are not highlighted.
+
+## Troubleshooting
 
 | Problem | Fix |
-|---|---|
-| `uv: command not found` | Restart your terminal after install |
-| `ModuleNotFoundError` | Run `uv sync` then `uv run python ...` |
-| Jupyter kernel issues | `uv run python -m ipykernel install --user` |
-| spaCy model missing | `uv run python scripts/download_models.py spacy` |
-| Slow `uv sync` on first run | Normal — it's downloading ~2 GB of ML libraries |
-| Demo zeigt „API nicht konfiguriert“ | `.env` nach `.env.example` einrichten und Server neu starten |
-| Demo 429/500 | KISSKI ist temporär überlastet – 1–2× erneut *Analysieren* drücken (Auto-Retry) |
-
+| --- | --- |
+| `uv: command not found` | Install `uv` and restart the terminal. |
+| `ModuleNotFoundError: ie_course` | Run commands through `uv run` from the project root. |
+| Missing API configuration in Streamlit | Copy `.env.example` to `.env` and set the provider, key, and model. |
+| API errors such as 401/403 | Check the configured API key and model name. |
+| API error 429 | Wait briefly and retry; the provider rate limit was reached. |
+| No GBERT model found | The app can still run with the LLM only, or place model files in `artifacts/gbert_model/`. |
+| PDF upload has no text | Use a text-based PDF, TXT, or DOCX file, or paste the text manually. |

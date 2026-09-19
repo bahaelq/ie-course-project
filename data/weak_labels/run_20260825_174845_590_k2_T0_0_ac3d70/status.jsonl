@@ -1,5 +1,0 @@
-{"id": "job_ad_1031", "status": "verified", "attempts": 3, "timestamp": "2026-08-25T17:48:50.630400+00:00", "verification_level": "structural"}
-{"id": "job_ad_1032", "status": "verified", "attempts": 2, "timestamp": "2026-08-25T17:48:53.555104+00:00", "verification_level": "structural"}
-{"id": "job_ad_1036", "status": "verified", "attempts": 1, "timestamp": "2026-08-25T17:48:54.753883+00:00", "verification_level": "structural"}
-{"id": "job_ad_1051", "status": "api_error", "attempts": 3, "timestamp": "2026-08-25T17:48:58.922658+00:00", "verification_level": "structural"}
-{"id": "job_ad_1066", "status": "verified", "attempts": 2, "timestamp": "2026-08-25T17:49:01.207641+00:00", "verification_level": "structural"}

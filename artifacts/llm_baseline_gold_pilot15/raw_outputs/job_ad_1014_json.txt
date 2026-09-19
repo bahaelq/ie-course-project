@@ -1,9 +1,0 @@
-{
-  "JOB_TITLE": ["Elektroniker (m/w/d) Energie- und Gebäudetechnik"],
-  "HARD_SKILL": ["Schaltpläne", "Prüf- und Messprotokolle", "DDC-Steuerungen"],
-  "SOFT_SKILL": ["Analyse", "Optimierung"],
-  "EXPERIENCE": ["Berufserfahrung in der Erstellung von Schaltplänen"],
-  "EDUCATION": ["abgeschlossene Ausbildung als Elektroniker", "Elektroniker für Energie- und Gebäudetechnik", "vergleichbare Qualifikation"],
-  "LANGUAGE": ["Deutsch", "Englisch"],
-  "WORK_MODE": ["unbefristetes Arbeitsverhältnis"]
-}

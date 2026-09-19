@@ -1,5 +1,3 @@
-"""ie_course — shared helpers for the Information Extraction course."""
-
 from ie_course.utils import (
     ents_to_dict,
     load_text,

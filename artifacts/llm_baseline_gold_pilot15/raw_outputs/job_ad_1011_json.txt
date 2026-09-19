@@ -1,9 +1,0 @@
-{
-  "JOB_TITLE": ["Pflegefachkraft (w/m/d)"],
-  "HARD_SKILL": ["Manchester Triage System", "therapeutisch-diagnostischen Eingriffen"],
-  "SOFT_SKILL": ["Teamplayer:in", "kommunikative Kompetenz", "Überzeugungskraft", "Kreativität", "Empathie"],
-  "EXPERIENCE": ["Berufserfahrung in der Betreuung von Notfallpatient:innen"],
-  "EDUCATION": ["abgeschlossene Ausbildung als Pflegefachkraft", "Gesundheits- und Krankenpfleger:in", "Altenpfleger:in", "Notfallsanitäter:in"],
-  "LANGUAGE": [],
-  "WORK_MODE": ["Voll- oder Teilzeit"]
-}

@@ -1,9 +1,0 @@
-{
-  "JOB_TITLE": ["Softwareentwickler Java (m/w/d)", "Softwareentwickler Java (m/w/d)"],
-  "HARD_SKILL": ["Java", "Spring Boot", "Hibernate", "Maven", "Java", "Python", "C++", "Spring"],
-  "SOFT_SKILL": ["agile Methoden", "Scrum"],
-  "EXPERIENCE": ["mehrjährige Berufserfahrung"],
-  "EDUCATION": ["abgeschlossenes Studium der Informatik", "Wirtschaftsinformatik", "vergleichbare Qualifikation"],
-  "LANGUAGE": ["Deutsch", "Englisch"],
-  "WORK_MODE": ["Vollzeit", "unbefristet", "Homeoffice möglich", "flexible Arbeitszeiten", "mobiles Arbeiten"]
-}

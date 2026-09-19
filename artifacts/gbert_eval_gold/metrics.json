@@ -1,0 +1,74 @@
+{
+  "micro": {
+    "tp": 36,
+    "fp": 134,
+    "fn": 67,
+    "precision": 0.21176470588235294,
+    "recall": 0.34951456310679613,
+    "f1": 0.26373626373626374
+  },
+  "by_type": {
+    "JOB_TITLE": {
+      "tp": 7,
+      "fp": 13,
+      "fn": 8,
+      "precision": 0.35,
+      "recall": 0.4666666666666667,
+      "f1": 0.4
+    },
+    "HARD_SKILL": {
+      "tp": 3,
+      "fp": 42,
+      "fn": 14,
+      "precision": 0.06666666666666667,
+      "recall": 0.17647058823529413,
+      "f1": 0.09677419354838708
+    },
+    "SOFT_SKILL": {
+      "tp": 2,
+      "fp": 20,
+      "fn": 16,
+      "precision": 0.09090909090909091,
+      "recall": 0.1111111111111111,
+      "f1": 0.09999999999999999
+    },
+    "EXPERIENCE": {
+      "tp": 6,
+      "fp": 19,
+      "fn": 6,
+      "precision": 0.24,
+      "recall": 0.5,
+      "f1": 0.32432432432432434
+    },
+    "EDUCATION": {
+      "tp": 6,
+      "fp": 11,
+      "fn": 8,
+      "precision": 0.35294117647058826,
+      "recall": 0.42857142857142855,
+      "f1": 0.3870967741935484
+    },
+    "LANGUAGE": {
+      "tp": 7,
+      "fp": 13,
+      "fn": 4,
+      "precision": 0.35,
+      "recall": 0.6363636363636364,
+      "f1": 0.45161290322580644
+    },
+    "WORK_MODE": {
+      "tp": 5,
+      "fp": 16,
+      "fn": 11,
+      "precision": 0.23809523809523808,
+      "recall": 0.3125,
+      "f1": 0.27027027027027023
+    }
+  },
+  "config": {
+    "model_dir": "/home/drmsalo/Projects/ie-course-project/artifacts/gbert_model",
+    "split": "gold",
+    "split_dir": "/home/drmsalo/Projects/ie-course-project/data/gold",
+    "examples": 15
+  }
+}

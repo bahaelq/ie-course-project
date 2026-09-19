@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "job_ad_1006",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 46,
+        "text": "Werkstudent / Werkstudentin Produktion (m/w/d)"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 75,
+        "end": 77,
+        "text": "14"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 78,
+        "end": 81,
+        "text": "18h"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 82,
+        "end": 87,
+        "text": "Woche"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 446,
+        "end": 470,
+        "text": "im Bereich industrieller"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 471,
+        "end": 489,
+        "text": "Schneidtechnologie"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 817,
+        "end": 854,
+        "text": "echten Produktions- und Logistikdaten"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 856,
+        "end": 863,
+        "text": "ERP/BDE"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 878,
+        "end": 893,
+        "text": "Prozessabläufen"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 902,
+        "end": 909,
+        "text": "strömen"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 914,
+        "end": 927,
+        "text": "dem Shopfloor"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 944,
+        "end": 954,
+        "text": "Dashboards"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 959,
+        "end": 971,
+        "text": "KPI-Systemen"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 1060,
+        "end": 1062,
+        "text": "an"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1007",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 48,
+        "text": "Mitarbeiter/in Casting und Produktion (m/w/d) in"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 49,
+        "end": 57,
+        "text": "Teilzeit"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 59,
+        "end": 61,
+        "text": "50"
+      },
+      {
+        "type": "JOB_TITLE",
+        "start": 62,
+        "end": 64,
+        "text": "%)"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 306,
+        "end": 314,
+        "text": "Partnern"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 319,
+        "end": 330,
+        "text": "Gastronomie"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1031,
+        "end": 1035,
+        "text": "nung"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1008",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 21,
+        "text": "Sales Manager (w/m/d)"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 55,
+        "end": 60,
+        "text": "Feste"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 93,
+        "end": 101,
+        "text": "Vollzeit"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 225,
+        "end": 226,
+        "text": "-"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 957,
+        "end": 982,
+        "text": "Entscheidungsträger-Ebene"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 984,
+        "end": 991,
+        "text": "C-Level"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 993,
+        "end": 1003,
+        "text": "IT-Leitung"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 1005,
+        "end": 1017,
+        "text": "Fachbereiche"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1009",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 30,
+        "text": "Mitarbeiter Produktion (m/w/d)"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 68,
+        "end": 73,
+        "text": "Feste"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 74,
+        "end": 84,
+        "text": "Anstellung"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 86,
+        "end": 94,
+        "text": "Teilzeit"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 96,
+        "end": 104,
+        "text": "Vollzeit"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 502,
+        "end": 517,
+        "text": "Servicequalität"
+      },
+      {
+        "type": "JOB_TITLE",
+        "start": 691,
+        "end": 697,
+        "text": "m/w/d)"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 701,
+        "end": 706,
+        "text": "Voll-"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 737,
+        "end": 753,
+        "text": "30 Wochenstunden"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 860,
+        "end": 876,
+        "text": "Serienproduktion"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 883,
+        "end": 891,
+        "text": "Rotation"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 909,
+        "end": 918,
+        "text": "Leiterpla"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 947,
+        "end": 963,
+        "text": "Wellen-Lötanlage"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 1054,
+        "end": 1063,
+        "text": "sicherung"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 1185,
+        "end": 1203,
+        "text": "aus der Produktion"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1010",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 44,
+        "text": "Werkstudent (m/w/d) Content Produktion Video"
+      },
+      {
+        "type": "JOB_TITLE",
+        "start": 630,
+        "end": 651,
+        "text": "en (m/w/d) im Bereich"
+      },
+      {
+        "type": "JOB_TITLE",
+        "start": 660,
+        "end": 670,
+        "text": "Produktion"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 736,
+        "end": 749,
+        "text": "Wochenstunden"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1011",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 25,
+        "text": "Pflegefachkraft (w/m/d) Z"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 120,
+        "end": 125,
+        "text": "Voll-"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 131,
+        "end": 139,
+        "text": "Teilzeit"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 321,
+        "end": 345,
+        "text": "Manchester Triage System"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 558,
+        "end": 571,
+        "text": "Patientenakte"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 647,
+        "end": 771,
+        "text": "abgeschlossenen Ausbildung als Pflegefachkraft, Gesundheits- und Krankenpfleger:in, Altenpfleger:in oder Notfallsanitäter:in"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 784,
+        "end": 804,
+        "text": "in einer Notaufnahme"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 913,
+        "end": 964,
+        "text": "Berufserfahrung in der Betreuung von Notfallpatient"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 965,
+        "end": 970,
+        "text": "innen"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 988,
+        "end": 999,
+        "text": "ausgeprägte"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1000,
+        "end": 1023,
+        "text": "kommunikative Kompetenz"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1028,
+        "end": 1045,
+        "text": "Überzeugungskraft"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1047,
+        "end": 1058,
+        "text": "Kreativität"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1063,
+        "end": 1071,
+        "text": "Empathie"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1012",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 41,
+        "text": "Erzieher (m/w/d) / verschiedene Standorte"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 335,
+        "end": 346,
+        "text": "Erzieher:in"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 355,
+        "end": 365,
+        "text": "Elementar-"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 378,
+        "end": 385,
+        "text": "bereich"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 768,
+        "end": 917,
+        "text": "Ausbildung als staatlich anerkannte:r Erzieher:in oder eine vergleichbare Qualifikation, zum Beispiel ein Studium mit Haupt- oder Nebenfach Pädagogik"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 963,
+        "end": 1005,
+        "text": "gute Deutschkenntnisse in Wort und Schrift"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1129,
+        "end": 1130,
+        "text": "e"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1135,
+        "end": 1147,
+        "text": "strukturiert"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1216,
+        "end": 1231,
+        "text": "Eigeninitiative"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 1299,
+        "end": 1306,
+        "text": "Einfühl"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1013",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 31,
+        "text": "Softwareentwickler Java (m/w/d)"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 113,
+        "end": 121,
+        "text": "Vollzeit"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 294,
+        "end": 306,
+        "text": "-Anwendungen"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 383,
+        "end": 386,
+        "text": "end"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 387,
+        "end": 395,
+        "text": "Services"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 421,
+        "end": 482,
+        "text": "abgeschlossenes Studium der Informatik, Wirtschaftsinformatik"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 488,
+        "end": 520,
+        "text": "eine vergleichbare Qualifikation"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 534,
+        "end": 597,
+        "text": "mehrjährige Berufserfahrung in der Softwareentwicklung mit Java"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 614,
+        "end": 633,
+        "text": "Programmiersprachen"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 638,
+        "end": 642,
+        "text": "Java"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 644,
+        "end": 650,
+        "text": "Python"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 656,
+        "end": 659,
+        "text": "C++"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 666,
+        "end": 676,
+        "text": "Frameworks"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 697,
+        "end": 736,
+        "text": "Erfahrung mit agilen Methoden wie Scrum"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 749,
+        "end": 776,
+        "text": "sehr gute Deutschkenntnisse"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 784,
+        "end": 786,
+        "text": "B2"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 792,
+        "end": 815,
+        "text": "gute Englischkenntnisse"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1014",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 48,
+        "text": "Elektroniker (m/w/d) Energie- und Gebäudetechnik"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 263,
+        "end": 265,
+        "text": "DC"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 295,
+        "end": 383,
+        "text": "abgeschlossene Ausbildung als Elektroniker, Elektroniker für Energie- und Gebäudetechnik"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 408,
+        "end": 421,
+        "text": "Qualifikation"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 444,
+        "end": 494,
+        "text": "Berufserfahrung in der Erstellung von Schaltplänen"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 510,
+        "end": 522,
+        "text": "Führerschein"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 523,
+        "end": 529,
+        "text": "Klasse"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 530,
+        "end": 531,
+        "text": "B"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 550,
+        "end": 577,
+        "text": "sehr gute Deutschkenntnisse"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 579,
+        "end": 597,
+        "text": "Englischkenntnisse"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1015",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 28,
+        "text": "Verwaltungsfachkraft (m/w/d)"
+      },
+      {
+        "type": "JOB_TITLE",
+        "start": 70,
+        "end": 81,
+        "text": "Verwaltungs"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 133,
+        "end": 141,
+        "text": "Teilzeit"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 218,
+        "end": 299,
+        "text": "Abgeschlossene Ausbildung im kaufmännischen Bereich oder vergleichbarer Abschluss"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 301,
+        "end": 338,
+        "text": "Berufserfahrung im Verwaltungsbereich"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 351,
+        "end": 380,
+        "text": "im Finanz- und Rechnungswesen"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 385,
+        "end": 391,
+        "text": "in der"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 392,
+        "end": 403,
+        "text": "vorbereiten"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 403,
+        "end": 411,
+        "text": "den Buch"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 411,
+        "end": 418,
+        "text": "haltung"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 429,
+        "end": 439,
+        "text": "Umgang mit"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 440,
+        "end": 445,
+        "text": "DATEV"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 450,
+        "end": 453,
+        "text": "den"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 454,
+        "end": 474,
+        "text": "MS-Office-Programmen"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 476,
+        "end": 525,
+        "text": "Erfahrung im Umgang mit einer Datenbank (Bewohner"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 525,
+        "end": 535,
+        "text": "verwaltung"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 540,
+        "end": 541,
+        "text": "."
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 542,
+        "end": 552,
+        "text": "Vivendi NG"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 555,
+        "end": 602,
+        "text": "Sehr gute Deutschkenntnisse in Wort und Schrift"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 604,
+        "end": 618,
+        "text": "Professionelle"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 619,
+        "end": 632,
+        "text": "Kommunikation"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 659,
+        "end": 665,
+        "text": "Ämtern"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 670,
+        "end": 682,
+        "text": "Kostenträger"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 690,
+        "end": 696,
+        "text": "prägte"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 697,
+        "end": 703,
+        "text": "Sozial"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 703,
+        "end": 712,
+        "text": "kompetenz"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 719,
+        "end": 725,
+        "text": "Team-,"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 726,
+        "end": 740,
+        "text": "Organisations-"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 745,
+        "end": 765,
+        "text": "Kommunikationsstärke"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 767,
+        "end": 773,
+        "text": "Empath"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1016",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 30,
+        "text": "Verkäufer (m/w/d) Einzelhandel"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 127,
+        "end": 135,
+        "text": "Vollzeit"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 207,
+        "end": 217,
+        "text": "Ausbildung"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 224,
+        "end": 318,
+        "text": "erweise eine abgeschlossene kaufmännische Berufsausbildung im Einzelhandel oder Vergleichbares"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 505,
+        "end": 510,
+        "text": "erste"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 511,
+        "end": 542,
+        "text": "Berufserfahrung im Einzelhandel"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 617,
+        "end": 639,
+        "text": "gute Deutschkenntnisse"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1017",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 38,
+        "text": "Pflegefachkraft (m/w/d) Intensivpflege"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 379,
+        "end": 486,
+        "text": "abgeschlossene Ausbildung in der Gesundheits- und Krankenpflege als Pflegefachkraft oder in der Altenpflege"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 509,
+        "end": 546,
+        "text": "Berufserfahrung in der Intensivpflege"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 556,
+        "end": 565,
+        "text": "teamfähig"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 584,
+        "end": 604,
+        "text": "Kommunikationsstärke"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 617,
+        "end": 621,
+        "text": "sehr"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 622,
+        "end": 644,
+        "text": "gute Deutschkenntnisse"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1018",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 34,
+        "text": "Erzieherin / Erzieher (m/w/d) Kita"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 382,
+        "end": 479,
+        "text": "abgeschlossene Ausbildung als staatlich anerkannte Erzieherin bzw. staatlich anerkannter Erzieher"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 506,
+        "end": 514,
+        "text": "Geschick"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 516,
+        "end": 535,
+        "text": "Einfühlungsvermögen"
+      },
+      {
+        "type": "SOFT_SKILL",
+        "start": 537,
+        "end": 550,
+        "text": "Teamfähigkeit"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 589,
+        "end": 636,
+        "text": "sehr gute Deutschkenntnisse in Wort und Schrift"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1019",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 24,
+        "text": "Python Developer (m/w/d)"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 99,
+        "end": 107,
+        "text": "Vollzeit"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 201,
+        "end": 203,
+        "text": "AP"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 337,
+        "end": 413,
+        "text": "abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 427,
+        "end": 497,
+        "text": "mehrjährige praktische Erfahrung in der Softwareentwicklung mit Python"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 516,
+        "end": 541,
+        "text": "Erfahrung mit Datenbanken"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 542,
+        "end": 543,
+        "text": "("
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 543,
+        "end": 546,
+        "text": "SQL"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 552,
+        "end": 558,
+        "text": "NoSQL)"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 563,
+        "end": 580,
+        "text": "Datenmodellierung"
+      },
+      {
+        "type": "HARD_SKILL",
+        "start": 601,
+        "end": 610,
+        "text": "Container"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 628,
+        "end": 651,
+        "text": "gute Englischkenntnisse"
+      }
+    ]
+  },
+  {
+    "id": "job_ad_1020",
+    "predictions": [
+      {
+        "type": "JOB_TITLE",
+        "start": 0,
+        "end": 40,
+        "text": "Elektroniker für Betriebstechnik (m/w/d)"
+      },
+      {
+        "type": "WORK_MODE",
+        "start": 135,
+        "end": 143,
+        "text": "Vollzeit"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 336,
+        "end": 398,
+        "text": "abgeschlossene Ausbildung als Elektroniker für Betriebstechnik"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 409,
+        "end": 436,
+        "text": "vergleichbare Qualifikation"
+      },
+      {
+        "type": "EXPERIENCE",
+        "start": 450,
+        "end": 505,
+        "text": "Berufserfahrung in der Wartung von elektrischen Anlagen"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 524,
+        "end": 536,
+        "text": "Führerschein"
+      },
+      {
+        "type": "EDUCATION",
+        "start": 537,
+        "end": 543,
+        "text": "Klasse"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 544,
+        "end": 545,
+        "text": "B"
+      },
+      {
+        "type": "LANGUAGE",
+        "start": 564,
+        "end": 586,
+        "text": "gute Deutschkenntnisse"
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "model_name": "deepset/gbert-base",
+  "train_examples": 46,
+  "val_examples": 15,
+  "epochs": 15,
+  "batch_size": 8,
+  "learning_rate": 5e-05,
+  "max_length": 256,
+  "seed": 42,
+  "label_list": [
+    "O",
+    "B-JOB_TITLE",
+    "I-JOB_TITLE",
+    "B-HARD_SKILL",
+    "I-HARD_SKILL",
+    "B-SOFT_SKILL",
+    "I-SOFT_SKILL",
+    "B-EXPERIENCE",
+    "I-EXPERIENCE",
+    "B-EDUCATION",
+    "I-EDUCATION",
+    "B-LANGUAGE",
+    "I-LANGUAGE",
+    "B-WORK_MODE",
+    "I-WORK_MODE"
+  ],
+  "final_eval": {
+    "eval_loss": 0.35159972310066223,
+    "eval_f1": 0.49000000000000005,
+    "eval_runtime": 0.1265,
+    "eval_samples_per_second": 118.541,
+    "eval_steps_per_second": 15.805,
+    "epoch": 15.0
+  }
+}
